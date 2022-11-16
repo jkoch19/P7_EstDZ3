@@ -1,0 +1,800 @@
+>ref|WP_012583927.1|/1-255  [completeness=complete] [organism=Dictyoglomus turgidum] [gcode=11]
+----------------------------------------------------------------METREPVV
+LENQGQKIFGVIHIPEK-----------------T-PAPFVLFCHGFTGTKVEPHRIFVKTAEALTREGIGA
+LRIDFRGSGDSEGSFKDMTVEGEVSDAMIAIDYLARSNLVDKEKIGILGLSMGGAVASITSGRN-SLIKSCV
+LWSAVCHFDIFFNRSPEEV----------S--RIKDYGDFIDL-GGNPVGKEFLSEIV--NIKPLEEIK--K
+R-SIPVLIIHGGGDIVVPIQHAYDYFNG---LKD-T-HKVKLEIIENADHTFNSIEWEEKVIEKTIKWFKET
+L-----------------------------------------------------------------------
+---------------------
+>tpg|HHV62282.1|/1-290  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS04akNAM_80] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MRDPVT
+FSNNGQKIIGVLHRPDNPPHINSKPGGETGSKANG-KAPGVILFHGFTGQKVEAHRIFVKLAEMLASRGIWT
+LRFDFRGSGDSEGDFSEMTLEGEISDAIVALDFMCSQDGIDHGRVGILGLSMGGAVAACVGGRD-PRVKSMV
+LWSAVADFARVPLFADNVK------LLHEL--NGNGQLNEVDL-EGDVVGRNFLLGLA--EAKPYEEIK--K
+V-KAPVLIVHGDADATVPVSHSQIFERA--IREV-G-GKVEVYILPGADHTYNSREWESRVLEKSVEWFEKT
+LLYLEGSQPVQGRG-DL-------------------------------------------------------
+---------------------
+>gb|NLN27432.1|/1-259  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS15tlH2ME_115] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MRYPVT
+FENEGQMMIGVVHRPDEDRNGR-----------RD-GRPGVVIYHGFTGTKVEPHRIFVKMAERLAALGIVA
+LRFDFRGSGDSEGNFEDMTFGGEVSDALVALDYMLENEGIDPGRLGVLGLSMGGAVAACVTGRS-AKVRTAA
+LWAAVADLNLFRHMAADI--------TAE-----LGDVEYYDR-NGNLVGRAFIEGLD--GYVPYREVA--D
+G-KTPVLVVHGDQDPTVPVDHAHKFTAA--LKQA-G-NPYRLHIVEGADHTFNSHAWETEVIDVTARWFAET
+L-----------------------------------------------------------------------
+---------------------
+>gb|NLV92450.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS09scLD_168] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVV
+IKNLGQQMVGMLHLPEG----------------EG-PFPAVALYHGFTGTKVEPHRIFVKMARRLNALGIAA
+VRFDFRGSGDSEGDFADMTVSGEISDGIKILDYLTELEAVDSQRLGVLGLSMGGAVAACVAGRD-DRVKSVA
+LWSAVADFALFAQNKE---------AL-----AKAKEQGYADV-GGNVLNYEFYEDAS--KHDPAAAIA--K
+F-AGPVLIVHGSEDPTVPVSHADIFEQA-----I-S-GQKEKVILLGADHTYNRRDWEEEVLERTAQWFQRT
+L-----------------------------------------------------------------------
+---------------------
+>gb|NPV80500.1|/1-274  [completeness=complete] [organism=Firmicutes bacterium] [isolate=Ch115] [metagenome_source=subsurface metagenome] [gcode=11] [country=Russia: Chazhemto settlement, Tomsk oblast] [isolation_source=2.8-km deep subsurface aquifer] [lat_lon=58.060226 N 82.826753 E] [collection_date=2016-04-28] alpha/beta fold hydrolase [Firmicutes bacterium]
+--------------------------------------------------------------MTRTTRDPVT
+FSNKGQKIIGVLHKPGNSSP-----G---GGEPSG-KAPGVALFHGFTGQKVEAHRIFVKLAEMLANKGIWT
+LRFDFRGSGDSEGEFSEMTFEGEVSDAIAALDFLCGQDGVDPGRVGILGLSMGGAVAACVGGRD-PRVKSVV
+LWSAVADFAGVPLFADNVK------LLQEL--DNNGRLNEVDL-EGDVVGRDFLLGLA--GAKPYEEIK--K
+A-KAPVLIVHGDADATVPVSHSEIFERA--ITGA-G-GKAEVYILPGADHTYNSREWESKVLQKSIEWFEKT
+LKKT--------------------------------------------------------------------
+---------------------
+>gb|NLJ24638.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_338] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVT
+LQSQGEQMIGMLHLPGG----------------KG-PFPAVAIYHGFTGTKVEPHRIFVKMARALVEQGIAA
+VRFDFRGSGDSEGDFANMTVSGEIADGIRVLDFLQEQPLIDRTRLGVVGLSMGGAVAASVAGKD-ERVKSLV
+LWAAVALFDIFEKEEE---------LL-----RQARELGYADV-GGNVLNYSFYEDAR--TQEPLAWAA--K
+H-EGPALIIHGDEDPTVPVAHANLYYNA-----F-P-GTKEKFIVPGADHTFNRRDWEEKVINKTAEWFCNT
+L-----------------------------------------------------------------------
+---------------------
+>gb|NLC45863.1|/1-255  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS09scLD_186] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MRRPVV
+FENEKQQLFGVLHYPPE----------------AR-KLPAVLLCHGFTGTKVESHRIFVKLAQLLEEFQLVT
+LRFDFRGSGDSEGDFSQMTLEGEISDARAALDYLQTLPEVDPNRLGILGLSMGGAVAATLSGRD-QRISACA
+LWSAVADFSQTFFSQAASQ------VIEE-------GKPDLDL-GGNVVSREFLLQCQ--KAKPHLELA--R
+R-RLPLLIVHGTEDKTVPVFHADLFHRAA--ESS-G-SPVELHKISGADHTYARRDWEEKVLTISSSWLAKQ
+LR----------------------------------------------------------------------
+---------------------
+>gb|NPV78802.1|/1-264  [completeness=complete] [organism=Firmicutes bacterium] [isolate=Ch115] [metagenome_source=subsurface metagenome] [gcode=11] [country=Russia: Chazhemto settlement, Tomsk oblast] [isolation_source=2.8-km deep subsurface aquifer] [lat_lon=58.060226 N 82.826753 E] [collection_date=2016-04-28] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MRDPVV
+FYNQGQKIIGVLHEPDFIKQNRC--------CGGR-RVPAVAIFHGFTGTKVEPHRIFVKMAESLVSKGIAA
+LRFDFRGSGDSEGDFAEMTLEGEISDAIKALDFLSERPELDPNRMGVLGLSMGGTVAATVTGRD-SRVKACV
+LWAAAADFSTLG-------------LTQEL--QGGPIPDRVDM-RGNVVGRAFLEGVV--KARPADELA--R
+S-SAPVLILHGDSDETVPYQQAYSFLEAARISRS-D-EDARLVIIKGGDHTFNSEPLEREVITHSTEWFVRH
+LLG---------------------------------------------------------------------
+---------------------
+>gb|NMB24576.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_326] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVV
+LMSEGEQMLGVLHLPQG----------------EG-PFPAVALYHGFTGTKVEAHRIFVKMARALSKAGIAA
+VRFDFRGSGDSAGDFDDMTVSGEIIDARRVLDFLQEQEAVAGERLGVLGLSMGGAVAASVAGQD-RRVKSLA
+LWAAVAQFSLFEGQEE---------LV-----EQAKACGHADV-GGNVLKYAFYEDSR--KQDPLKWVS--A
+Y-GGPALIVHGDGDPTVPVAHAHLYFDA-----I-S-GTKEKFIIPGADHTFNSHEWETAVIEKTAAWFVDT
+L-----------------------------------------------------------------------
+---------------------
+>gb|RKU32612.1|/1-274  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=PCPOR1] [nat_host=Pseudoceratina sp.] [metagenome_source=sponge metagenome] [gcode=11] [country=Guam: San Louis Beach, Santa Rita] [lat_lon=13.4428 N 144.6487 E] [collection_date=07-Jul-2015] alpha/beta hydrolase [Candidatus Poribacteria bacterium]
+-----------------------------------------------------------------MIEKPIV
+FYNKGQQLNGILHAPTT---------------YDT-LCPAVAFFHGFTGTKVEPHRIFVKTARALAGIGFYA
+LRFDFRGSGDSEGDFSEMTIGGEISDAIKSIDVLTAMQGVDPERIGVLGLSMGGCVAACVSGQD-ARVKSTV
+MWAPLSDDPPDRREEILER------SKHTP--TPEEIA---QS-NANVVGKAFYEELP--NISPSNTIQ--Q
+F-TGPLLVIHGSGDDVVPVSHGKRYYEL--MRER-D-ALTELEIIDEADHTFNTVGWEQAIIAKSVAWFQRT
+LRRKNFPSLTTNSE-SLK------------------------------------------------------
+---------------------
+>ref|WP_012874554.1|/1-259  [completeness=complete] [organism=Thermobaculum terrenum] [gcode=11]
+------------------------------------------------------------------MERTVT
+IDSNGLSLFGIIHTPET----------------NS-PGPAVLMLHGLGGTHIESHFIYTKTARALASRGITA
+LRFDFRGSGNSQGDFMNTTPQGEIDDANAALDFLMSQPEVDRSRIGVLGLSMGGFVAACLAGQRQ-EVKALV
+LWSAVANMGELLDSNTDD---------MRL-A-QLQSSGYVDL-GGIPLSREFIEQAH--QIIPEQQIK--Q
+Y-KGPALVIHGSNDETVPVEHAYRF------KNALG-DQARLMIVDGADHVFSSLEWERAVINETVNWFKTL
+DTAPVAR-----------------------------------------------------------------
+---------------------
+>gb|NLJ85036.1|/1-237  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_168] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------------
+-------MVGMLHLPQG----------------KG-PFPAVAIYHGFTGTKVEPHRLFVKMARALMAAGIAA
+VRFDFRGSGDSEGDFADMTVSGEIADAIRVLDFLEEHEAVDAQRLGVLGLSMGGAVAASVAGKD-TRVKSLA
+LWAAVAKFDVFETEEE---------LL-----AQARKQGWVDL-NGNMLKYSFYEDAR--QQKPLDWAR--R
+F-SGTALIVHGDADPTVPVAHADLYYDA-----L-A-GTKEKFIVPGADHTFNSQKWETAVIEKTAAWFGDT
+L-----------------------------------------------------------------------
+---------------------
+>ref|WP_127015310.1|/1-257  [completeness=complete] [organism=Anoxybacter fermentans] [gcode=11]
+----------------------------------------------------------------MLVERPVV
+FENEGEQLIGIVHEPEG----------------IG-VKPGVILLHGFAGNRIEPHRLFVKMARSLAKTGFYV
+FRFDFRGSGDSQGEFVDMTISGEISDALAGLNWFKENTGVDPERIGVLGLSMGGCVAAYTAARA--NIKALV
+LWSAVALPLQVFEKNAPY--------QLMI--NQAKKQGYLEW-NGWRIGFPFLEELP--SLNPLEMIK--E
+Y-TGPGLCIHGSGDQVVPIEHSHLYYRYL----S-S-PDKEVYIIEEADHTFNKFEWEQEVIQKTVAWLENK
+LK----------------------------------------------------------------------
+---------------------
+>gb|NMB46407.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_95] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MERPVT
+LTSRGEQMVGMLHLPDQ----------------KG-PFPAVAIYHGFTGTKVEPHRIFVKMARALVAQGIAA
+VRFDFRGSGDSEGDFADMTVSGEIADAIRVLDFLEAQSQVDPQRLGVLGLSMGGAVAASVAGKD-ERVKSLA
+LWAAVARFELFESEPE---------LL-----AQARKMGHVDL-AGNVLNYGFYEDAR--TQDPVKWVS--Q
+F-EGSALVVHGDEDPTVPVSHADLLYDA-----V-T-GKKEKFIVPGADHTFNRHDWESAVISKTADWFHKT
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBI3991271.1|/1-266  [completeness=complete] [organism=Candidatus Omnitrophica bacterium] [isolate=NC_groundwater_1102_Ag_S2p5_43_22] [metagenome_source=groundwater metagenome] [note=S_2p5_S6_coassembly_Omnitrophica_43_22] [gcode=11] [country=USA: California, Modesto] [isolation_source=groundwater] [lat_lon=37.661915 N 121.114554 W] [collection_date=2017-03-17] alpha/beta fold hydrolase [Candidatus Omnitrophica bacterium]
+--------------------------------------------------------MDLETKINSSTWEPVV
+FENQGEKILGIIHAPAGKE--------------PS-CRPGIVMCHGFTGDKIEPHRIFVRMARILADAGFYV
+LRFDFRGSGDSDGDFSDVTISGEIADTLKAIEYLSRREGVAREKIGILGLSLGGSIAACVSWRS-PLIKAVA
+LWAAAADLPAVFQANLEP---------EKM--RLLSRTGYYDF-NGNIVGMDFIEEIK--RFNPVEEIS--K
+F-KGDVLIIHGDADETVPLSNAYQFNNA-----L-K-SKKEFIVIKGAGHTFDSEDWEKQVLMSTGDWFRKA
+LL----------------------------------------------------------------------
+---------------------
+>gb|MXZ00763.1|/1-267  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=SB0665_bin_33] [nat_host=Ircinia ramosa] [metagenome_source=sponge metagenome] [gcode=11] [country=Australia: Great Barrier Reef] [lat_lon=18.49 S 147.38 E] [collection_date=Oct-2016] alpha/beta fold hydrolase [Candidatus Poribacteria bacterium]
+---------------------------------------------------------MSRKRRKNMRERPII
+FYNQGQHLNGVLHTPAD---------------SDA-LCPAVALFHGFTGTKVEPHRIFVKTARELAAVGFYA
+LRFDFRGSGDSEGDFSEMTIGGEISDAIKSIDVLTAMQGVDPERIGILGLSMGGCVAACVSGQD-TRVKSTV
+LWAPLSDDPPDRKQEILER------SKQTP--TPEEIA---QS-NANVVGKAFYEDLP--NILPSRTIQ--Q
+F-TGPLLVIHGSADQAVPVSHGKRYYEL--MCGR-D-ALTELEVLNGADHTFNTVGWEQTVIAKSVEWFRKT
+LA----------------------------------------------------------------------
+---------------------
+>gb|MCH8292369.1|/1-264  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=B30T1B8] [metagenome_source=marine sediment metagenome] [gcode=11] [country=Pacific Ocean: Mariana Trench] [isolation_source=Mariana trench surficial sediment] [lat_lon=11.602 N 142.228 E] [collection_date=2016-07-23] [collected_by=Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences] alpha/beta fold hydrolase [Candidatus Poribacteria bacterium]
+-----------------------------------------------------------------MIEKPIV
+FYNHGQQLIGMLHTPDQ---------------VRA-PCPAVVFFHGFTGTKVEPHRIFVKTARRLASLGFYA
+LRFDFRGCGDSEGDFTEMTISGEISDAIRSIDVLTTIEGVDANRIGVLGLSMGGCVAACVSGQD-ARVKSTV
+LWAPVSDEPPDLLQTMLGA------YANRP--NPADEAFVDFW-NGNTVGRAFFEELP--HIKPSKQIQ--A
+F-SGPLLILHGDNDETIPVIYGKRYYEL--MKDR-D-ALTEIEVISQADHTFNAKAWEDVVITRSINWFQQT
+LSAD--------------------------------------------------------------------
+---------------------
+>gb|NLJ67834.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_268] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVT
+LISQGEQMVGMLHLPEG----------------NG-PFPAVAIYHGFTGTKVEPHRIFVKMSRALAREGVAA
+VRFDFRGSGDSEGDFADMTVSGEIQDAIRVLDFLQEQPQIDGDRLGILGLSMGGAVAASVAGLD-RRVKCLA
+LWAAVAVFDLFEGEEG---------LL-----RQAREQGYADI-GGNVLNYSFYEDAR--KQDPLKLAA--G
+F-KGPALIVHGDADPTVPVEHADLYYEA-----V-G-GEKEKFIVAGADHTFNRHEWEKAVIDKTADWFRSR
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBP8638509.1|/1-256  [completeness=complete] [organism=Dictyoglomi bacterium] [isolate=Gw_SlDig_bin_265] [metagenome_source=wastewater metagenome] [gcode=11] [country=Germany: Greifswald] [isolation_source=wastewater] [lat_lon=54.114698 N 13.430010 E] alpha/beta fold hydrolase [Dictyoglomi bacterium]
+------------------------------------------------------------------MEIPVV
+FGKEGHRLVGILHSVDD----------------GE-RKPGVVLFHGFTGNKIEPHRLFVKIARKLASIGINV
+LRFDFYGSGDSEGEFIEMTFSGEVEDALVAVDFLREQECVDPSRIGVLGLSMGGGIASYVSGKRE-DIKSTV
+LLSAVAELSSLAEGFRTQY-------PED----KLRAEGFVDY-GGWQLGLGFIGELN--DIRPVEMIK--D
+F-KGPVFIIHGSGDNVVPVAAAYKYYEAL--KGR-A-VETRLKVIDGADHTFNSVPWEKEVLGLVSDWFIKT
+L-----------------------------------------------------------------------
+---------------------
+>tpg|HHV44548.1|/1-262  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS04akNAM_99] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MRRQIE
+FVNKGQRIFGILHYPEG---------------TTA-PVPGVVLFHGFTGTKVESHRLFVKMAEYLASLGLAA
+LRFDFRGSGDSEGNFEDTTVSEEISDALVAVDVLAQQPGIDQTRIGVIGLSLGGAVAACTTRRH-PMISATV
+LWSAVADFQETSISNNVRA------NAIPI--VEIDGRRCYDF-GGNLVGEEFFADLS--LHDPPRELA--Q
+S-SAKVLIIHGDQDQTVPASHSQTYLKA--LEQA-G-KAATLKIIPGASHTYTSYHHEQEVINLTGQWLQKT
+LGA---------------------------------------------------------------------
+---------------------
+>gb|NMB11937.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_266] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVI
+LQSQGQQMVGMLHLPEG----------------EG-PFPAVAIYHGFTGTKAESHRIFVKMARALVAKGIVA
+ARFDFRGSGDSEGDFADMTVSGEIADGIRVLDFLEEQPQVDAASLGVLGLSMGGAVAASVAGQD-KRVKSLA
+LWAAVAKFDLFESEPE---------LL-----DQAKKVGYADL-NGNVLNYSFYEDAR--TQDPLKWVS--K
+F-QGSALIIHGDADPTVPVAHADLYYQA-----I-T-GKKEKLIVSEADHTFNRQDWEKSVIDRTATWFHKE
+L-----------------------------------------------------------------------
+---------------------
+>gb|NOZ20673.1|/1-258  [completeness=complete] [organism=Planctomycetes bacterium] [isolate=M_MetaBat.109] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: East Pacific Rise] [isolation_source=Deepsea hydrothermal sulfide chimney] [lat_lon=9.7712 N 104.2789 W] [collection_date=01-Jan-2014] alpha/beta fold hydrolase [Planctomycetes bacterium]
+------------------------------------------------------------------MQSPMM
+FRNKGQLISGMLHVPGR----------------ARARVPAVLLCHGFTGQKIETHRLFVTLSRALEGRGVAS
+LRFDFRGSGESEGAFNEMTVSGEISDAHAAFAKLIAHSKIDPGRIGVLGLSLGGCVAACLAGQEK-RIASLA
+LWSTVADPAELLTHKLSP---------QEK--GILRRKGYLDR-AGMPVGRAFFRGLP--SIHPLEEVA--K
+S-DCPILIVHGTEDKAVPLGHAERYYEVV--KPR-S-ARVQKYILKGADHVFSTVKWTNRVVKRTAEWFAQT
+LI----------------------------------------------------------------------
+---------------------
+>gb|MCK4298825.1|/1-264  [organism=Planctomycetes bacterium] [isolate=RS_18_22] [metagenome_source=cold seep metagenome] [gcode=11] [country=China: South China Sea] [isolation_source=deep sea sediment] [lat_lon=22.17 N 119.28 E] [collection_date=2017-09-25] alpha/beta fold hydrolase, partial [Planctomycetes bacterium]
+----------------------------------------------------------VGDTGRTVMQRPQY
+FANEGQQIVGTLHLPNG----------------VG-PHPGVLLCHGFTGMRLEAHFLFVKMSRALERAGMAS
+LRFDFRGSGESGGEFRDMTVETEVSDALKAVDVFCQVPEVDGGRIGVLGLSLGGFVAACVTGFEK-RVKSTV
+LWSAVASLPETIGRRLDA---------EQS--LLLDEQGYLDI-GGHALGKGFLDGVR--ALDPLELIA--K
+S-SQPLLIVHGSADESVPPEHADRYRAAA--RHG-D-RRVEKFVIEGADHTYATLADEQTVIERTAAWFKET
+L-----------------------------------------------------------------------
+---------------------
+>gb|MYC74680.1|/1-283  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=SB0661_bin_29] [nat_host=Ircinia ramosa] [metagenome_source=sponge metagenome] [gcode=11] [country=Australia: Great Barrier Reef] [lat_lon=18.49 S 147.38 E] [collection_date=Oct-2016] alpha/beta fold hydrolase [Candidatus Poribacteria bacterium]
+-MKFSYVFSRFSRPHPP----------------------------------------KHSKEKKNMVERPIV
+FYNQGQQLNGILHLPTA---------------HEA-LCPAVAFFHGFTGTKVEPHRIFVKTARELAAIGFYV
+LRFDFRGCGDSAGDFSEMTIGGEVSDAIKSIDVLTAMQGVDPERIGVLGLSMGGCVAACVSGQD-TRVKSTV
+MWAPLSDDPPNRKQEILER------GKNTP--TPEEIA---QL-NPNIVGKAFYEDLP--QISPSVTLQ--Q
+F-TGDLLVIHGSGDDVVPVSHGRRYYEL--MRDR-D-ALTELEIVDKADHTFNTVAWEQAVIARSVAWFQQT
+LA----------------------------------------------------------------------
+---------------------
+>gb|NLK07941.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS23ysBPME_124] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MERPVV
+WTSEGEQMLGVFHQPQG----------------VG-PFPAVAIYHGFTGTKVEPHRIFVKMARALCQMGIAV
+VRFDFRGSGDSEGDFADMTVSREIVDAKRILDFLQEQASVDPNRLGVLGLSMGGAVAASVAGQD-TRVKSLA
+LWAAVADFSLFRAQID---------MV-----EQARKQGYVDL-GGNVLNWAFYEDAL--TQDPLKWAA--S
+Y-KGPALVVHGDGDPTVPVDHADLYYGA-----I-P-GEKEKLIIPKADHTFNSHDWETAVIEKTATWFQKT
+L-----------------------------------------------------------------------
+---------------------
+>gb|MYB94255.1|/1-259  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=SB0664_bin_28] [nat_host=Ircinia ramosa] [metagenome_source=sponge metagenome] [gcode=11] [country=Australia: Great Barrier Reef] [lat_lon=18.49 S 147.38 E] [collection_date=Oct-2016] alpha/beta fold hydrolase [Candidatus Poribacteria bacterium]
+-----------------------------------------------------------------MIERPIV
+FYNKGQQLNGILHSPVA---------------CDT-PCPAVVFFHGFTGTKVEPHRIFVKTARELAGAGFHA
+LRFDFRGSGDSGGDFSEMTIGGEVSDAIKSIDVLSAMQGVDPERIGILGLSMGGCVAACVSGQD-ARVKSTV
+MWAPLSDDPPDRREEILAR------SKHTP--TPEEIA---QS-NPNIVGKAFYEELP--NISPSALIQ--Q
+F-TGALLVIHGSGDDVVPVSHGKRYYEL--MRER-E-APTALEIINKGDHTFNTVASEQAVITKSVAWFQRT
+LG----------------------------------------------------------------------
+---------------------
+>gb|MCK4282783.1|/1-251  [completeness=complete] [organism=Candidatus Brocadiae bacterium] [isolate=RS_18_27] [metagenome_source=cold seep metagenome] [gcode=11] [country=China: South China Sea] [isolation_source=deep sea sediment] [lat_lon=22.17 N 119.28 E] [collection_date=2017-09-25] alpha/beta fold hydrolase [Candidatus Brocadiae bacterium]
+------------------------------------------------------------------MEIQVS
+FTSQGANVFGVLHLPEE-----------------T-PAPGLIMCHGFTGHKAEAHRLFVEAARDFCDHGLAV
+LRFDFRGSGDSEGDFADMTVSGEIADAAAALEFLASRPEVDGDRLGVLGLSIGGCVSACLAGREP-AVRALV
+LWAAVAHLERLTERLA---------------P-ELGGGKVLDM-QGWAVGRALLDDVS--HIEPLREVA--R
+Y-AGPSLVVHGSQDDTVPPSDAADY------RVALG-GHCRLHYVEGADHVFSGLAWKREAIEASRAFLVKA
+LGARA-------------------------------------------------------------------
+---------------------
+>gb|NLY30187.1|/1-250  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS09scLD_252] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MEKPVT
+LISQGEQMVGMLHLPEG----------------KG-PFPAVAIYHGFTGTKVEPHRLFVKMSRALVQKGIAA
+VRFDFRGSGDSEGDFADMTVSGEIADAIRVLDFLQEQPEVDGQRLGVLGLSMGGAIAASVAGLD-KRVKCLA
+LWAAVAKFDIFERQEE---------LL-----RQAREQGYADV-NGNILNYGFYEDAR--KQDPLALVA--G
+F-PGSALIVHGDADPTVPVEHADFYHGA-----I-G-GEKEKFIVAGADHTFNRHDWERAVINKTAEWFHGK
+L-----------------------------------------------------------------------
+---------------------
+>gb|NOZ61673.1|/1-286  [completeness=complete] [organism=Calditrichaeota bacterium] [isolate=M_MaxBin.067] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: East Pacific Rise] [isolation_source=Deepsea hydrothermal sulfide chimney] [lat_lon=9.7712 N 104.2789 W] [collection_date=01-Jan-2014] alpha/beta fold hydrolase [Calditrichaeota bacterium]
+-----------------------------MKNIFLLIIATISLTFNC-----------QKDQTMQKYEKPVV
+FERDGNQLVGIMHFPRK---------------TSP-KYPTVILLHGFTGNKAESHFMFTEMARELAKAGFVC
+LRFDFFGSGDSEGTFEEMTYLTELADANAALAFLRQQPEVDVNKIGVLGLSMGGGVAALLAGSEP-DVKSLV
+LLSAVSRPEENFKKLLENI-------PRIH-K--PDGTWYLDT-GGNPVGQKFFEVLP--QVKPLETIK--N
+Y-AGHALIIHGNNDVVVPESAAYDYFDLL--KDRQN-VSTELKLVEGADHVFSSVALTDSLNKTVVDWFERT
+LK----------------------------------------------------------------------
+---------------------
+>gb|MBC7328563.1|/1-262  [completeness=complete] [organism=bacterium] [isolate=MAG-56] [metagenome_source=oil production facility metagenome] [gcode=11] [country=China: Dongying] [isolation_source=Shengli oilfield at Shandong province] [lat_lon=38.15 N 118.5 E] [collection_date=2016-04-11] alpha/beta fold hydrolase [bacterium]
+-------------------------------------------------------------MIDMMREEFVS
+FYNKNERIVGMVHIAET----------------QG-KSPAVVMCHGFTGQRMEAHFLFVKTARRLAENGISV
+LRFDFRGSGESEGKFEDMTVEEEISDAETALRFLRMQEFVDCDRIGIIGLSLGGCVSACLAGRVKNLLKSVV
+LWSAAYKPGRDLSSILSP---------EAQ-E-SLERVGYVNM-GGNKVGKKFFQILP--TIDPIKEIS--T
+Y-PGAVLLVHGEADF-IPYSQAEECYEVL--KQRKE-GKAKLHIIKGADHTFSSPEWEEEAITTTLNWFKET
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCE2414783.1|/1-259  [completeness=complete] [organism=Candidatus Poribacteria bacterium] [isolate=277c_42] [nat_host=Petrosia ficiformis] [metagenome_source=sponge metagenome] [gcode=11] [country=Israel: Achziv Nature Marine Reserve] [isolation_source=coastal seawater] [lat_lon=33.01 N 35.04 E] [collection_date=2014-01] alpha/beta fold hydrolase [Candidatus Poribacteria bacterium]
+-----------------------------------------------------------------MTERPIV
+FYNKEQQLNGILHTPTG---------------FDA-PCPAIAFFHGFTGTKVEPHRIFVKTARELAAIGFYV
+LRFDFRGSGDSAGDFSEMTIGGEISDAIKSIDVLTAMQGVDPERIGILGLSMGGCVAACVSGQD-VRVKSTV
+MWAPLSDDPPDRKQEILER------SKSTP--TPEEIA---QL-NPNIVGKAFYEELP--HISPSVTIQ--Q
+F-TGALLVIHGSGDEVVPTSHGRRYYEL--MHER-D-ALTELEIVDKADHTFNTVAWEQAVISRSVAWFQRT
+LA----------------------------------------------------------------------
+---------------------
+>tpg|HHY18768.1|/1-252  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS05jafATM_29] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MREPIY
+FENEGMRLIGVIHKPEG----------------QG-PFPAVCFFHGFTGNKAEAHRIFVATAEELVKRGIAA
+LRFDFRGSGDSEGEFVDMTFSSEVSDALKAVEYLQNRNDI--SSIAVLGLSMGGAIAATVAGEL-EDLKAVV
+LWSAVGNFMDCYVGDNVK--------------EAAKNGFPIEW-GGYQIGEDFVLDIV--KHKPFESIS--K
+T-KAPVLIVHGTKDMAVQTEQAYKYQEV--LENA-K-VPHKVHIVEGADHCYCRKDWKKEVIQESVDFLEKH
+LL----------------------------------------------------------------------
+---------------------
+>gb|MXV74028.1|/1-252  [organism=Candidatus Poribacteria bacterium] [isolate=SB0668_bin_37] [nat_host=Ircinia ramosa] [metagenome_source=sponge metagenome] [gcode=11] [country=Australia: Great Barrier Reef] [lat_lon=18.49 S 147.38 E] [collection_date=Oct-2016] prolyl oligopeptidase family serine peptidase, partial [Candidatus Poribacteria bacterium]
+------------------------------------------------------------------------
+FYNKGQQLNGVLHSPTA---------------SDT-PCPAVAFFHGFTGTKVEPHRIFVKTARELAAIGFYA
+LRFDFRGSGDSEGDFSEMTIGGEISDAIKSIDVLAAMPGIDTERIGILGLSMGGCVAACVSGQD-TRVKSTV
+MWAPLSDDPPDRKQEILER------SKHTP--TPEEIA---QS-NANVVGKAFYEELP--EISPSALIQ--Q
+F-TGALLVIHGSGDETVPVSHGRRYYEL--MRGR-D-ALTELEIIDKGDHTFNTVGWEQAVIAKSVAWFQRT
+LA----------------------------------------------------------------------
+---------------------
+>gb|NHV98469.1|/1-256  [completeness=complete] [organism=Thaumarchaeota archaeon] [isolate=SJ3.Bin56] [metagenome_source=hot springs metagenome] [gcode=11] [country=USA: Yellowstone National Park; Smokejumper3 Hot Spring] [isolation_source=sediments from hot spring shelf] [lat_lon=44.41595 N 110.9558 W] [collection_date=Jul-2014] alpha/beta hydrolase [Thaumarchaeota archaeon]
+-----------------------------------------------------------------MEEKPIF
+VTVIGERIHGVMHVPDE-----------------T-PAPTVVFCHGFTGNRVEAHRLFVRAARKMSREGIAA
+VRFDFRGSGESEGEFENMTVSSEITDLNSVLSFLLERNEVARDKIGVVGLSLGGAVSILTAARN-QMVKAVC
+SWSSPAEFRIMSD---GLKAF-----GADL--KTVTEKGYVDLPSGFRVGKDFFTDIL--KHDVLDACS--K
+ITPRPILIMHGSGDTVVPVKHAHMLYEK-----A-G-EPKRLVIIDGADHTFTGREYEDRVIEITTEWFKKN
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBC7287937.1|/1-259  [completeness=complete] [organism=Armatimonadetes bacterium] [isolate=MAG-55] [metagenome_source=oil production facility metagenome] [gcode=11] [country=China: Dongying] [isolation_source=Shengli oilfield at Shandong province] [lat_lon=38.15 N 118.5 E] [collection_date=2016-04-11] alpha/beta fold hydrolase [Armatimonadetes bacterium]
+------------------------------------------------------------MNSLPIPHELLW
+IEGPTGYLAASFHRPGF---------------CPR-PVPAVLMCHGFTGHRIEAHRLFVEAAQAFAASGVAA
+LRFDFRGSGESQGAFADMTVEGEIQDALAALEYLMRRPDVDASRVAVLGLSLGGAVAACVAGRRP-DVRALV
+LWAAVADLAQLAQRFASE----------HA-P-PRLPDGTFDI-GGLAVGPNFIRGLE--NVRPLNEVT--A
+F-SGPVLLVHGSEDAAVPIAHAEAY------KQALG-SRCTLHIIAGADHVFSSVPWQSDAIEVTARFLVSV
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCK9223163.1|/1-262  [completeness=complete] [organism=Limnochordia bacterium] [isolate=SO_2016_LW2 bin 159] [metagenome_source=landfill metagenome] [gcode=11] [country=Canada: Waterloo] [isolation_source=leachate from a leachate well at an active municipal landfill in Southern Ontario] [lat_lon=43.44 N 80.58 W] [collection_date=2016-07] alpha/beta fold hydrolase [Limnochordia bacterium]
+------------------------------------------------------------------MRKQVQ
+FANEGQTIFGILHYPED---------------TTG-PVPGVLILHGFTGTKVEPHRVFVKMAERLVSLGIAA
+LRFDFRGSGDSEGDFADMTLTEEISDAVVAVDYLADYPGIDSTKMGLIGLSLGGAVSACTAKLR-PNLSAVV
+LWSAVADLMKTAIGDNVKA------LGVPM--VEVAGRTLYDF-GGNLVGMEFIEDLS--NHNPPEELA--G
+S-NADVLVIHGDHDPTVPLSHSEIYRSA--VAGS-C-GNIKVKIISGADHIYNSYHHEKELIDTTGEWLAQK
+LKG---------------------------------------------------------------------
+---------------------
+>gb|MBO3753971.1|/1-256  [completeness=complete] [organism=Candidatus Brockarchaeota archaeon] [isolate=QZM_A3] [metagenome_source=hot springs metagenome] [gcode=11] [country=China: QuZhuoMu village, CuoNa county, Tibet Plateau] [isolation_source=hot spring sediment] [lat_lon=28.24837 N 91.80881 E] [collection_date=2016-08-15] alpha/beta hydrolase [Candidatus Brockarchaeota archaeon]
+-----------------------------------------------------------------MEEIPIF
+VNVMGGRIHGVMHVPNV-----------------T-PAPTVVFCHGFTGNRIEAHRLFVRAARKMSREGIAA
+VRFDFRGSGESEGEFEKMTVSSEISDLNGVLSFLLERSEVARDKIGVLGLSLGGAVSILTAVRN-QSVKAVC
+TWSSPAEFRLISD---GEKAF-----GMDL--KSILEKGYVDLPSGYRVGRDFFTDVL--KHDILDSCS--K
+ISPRPLLIIHGSEDAVVPVTHAHMLYDK-----A-G-EPKKLVIIEGADHTFSRRDWEDRVIQVTTEWFKET
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBM4078498.1|/1-293  [completeness=complete] [organism=Planctomycetes bacterium] [isolate=M_DeepCast_200m_mx_231] [metagenome_source=freshwater metagenome] [gcode=11] [country=Tanzania: Lake Tanganyika, Mahale] [isolation_source=freshwater lake] [lat_lon=6.2556 S 29.5108 E] [collection_date=2015] alpha/beta fold hydrolase [Planctomycetes bacterium]
+-----------------------------MKAALQKASAIGRIAAICHRLSTRAAVFPGAVTRKAFVEIPVS
+FESAGEQIVGMMHLPSS----------------RR-KSPCVVLCHGFTGHKGETHFLFVKMSRALARKGIAS
+LRFDFRGSGDSEGDFRDVTISAEIADALKAVDFVAAQKRVDAKRIGILGLSLGGCVAACVAGRDQ-RVKSLA
+LWSAVAAPAKLFKTRWSE---------QQI--ASWRKTGGMDI-GGLELGLCFLDDLP--NNDPAAAIR--Q
+C-QAPVLIIHGRKDESVPVAHADVYLAEA--RRR-G-IRAEKFILPGADHVFRRLDWERTVIEKTARWFVET
+L-----------------------------------------------------------------------
+---------------------
+>gb|NLY52286.1|/1-304  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS09scLD_362] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+MACFDFARCRRERPILPSPGYRSLSIQQDISAGFVRD-DTKI-----------ELNMGFLPKGGIALEKPVT
+LISQGEQMVGMLHLPEG----------------KG-PFPAVAIYHGFTGTKVEPHRLFVKMSRALVQKGIAA
+VRFDFRGSGDSEGDFADMTVSGEIADAIRVLDFLQEQPEVDGERLGVLGLSMGGAIAASVAGLD-KRVKCLA
+LWAAVAKFDLFEREEE---------LL-----REAREQGYVDI-GGNVLKYSFYEDAR--KQDPLALAA--G
+F-PGPALIVHGDADPTVPVEHADFYYEA-----V-G-GEKEKFIVAGADHTFNRQDWERAVIDKTADWFHSR
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCD6362298.1|/1-256  [completeness=complete] [organism=Armatimonadetes bacterium] [isolate=AUK308] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Armatimonadetes bacterium]
+-------------------------------------------------------------------MEHRQ
+FQVEGQTITAGLHVPDT-----------------T-PAPGVVMCHGFTGTRIEAHFLFVKAARELCAAGMNV
+LRFDFRGSGESDGAFEEMTVEGEIADALAAVEVLRNEPTVDPDRVAVLGLSLGGLVAACTAARSP-NVSALV
+LWAAVADLMEVFSQRGDW---------DQV-QAALKRDGFVEH-GAHRIGAGFWEDCR--RIDPLAELA--D
+Y-RGPALVVHGSEDQSVVVDHAQRYL-----DALPT-DDKTVHIIEGADHTFSSVAWEREAIGVTTEWLARH
+LGCA--------------------------------------------------------------------
+---------------------
+>gb|MBO3839941.1|/1-257  [completeness=complete] [organism=Candidatus Brockarchaeota archaeon] [isolate=JZ-1.bins.89] [metagenome_source=hot springs metagenome] [gcode=11] [country=China: Tengchong county, Yunnan, JZ-1 pool] [isolation_source=hot spring sediment] [lat_lon=25.44111 N 98.46 E] [collection_date=2017-05] alpha/beta fold hydrolase [Candidatus Brockarchaeota archaeon]
+-----------------------------------------------------------------MEEIHVF
+VKNMGERISTVIHIPDE-----------------T-PAPAVVFSHGFTGNKIETHRLFVRAARKMSKEGFVA
+VRFDFRGSGESDGEFEEMTISSEVSDLNAVLNFLASRMEIIREKMGLVGLSLGGVVSILTAAQN-PIVKAVC
+TWSSPAYLRLLSS---LRDSF-----GADL--SQ-IEKGYVDLPSGYRIGRMFFEDAL--KHDIINSCA--R
+ISPRPMLIIHGSQDSVVPVEHARMLYDG-----A-G-EPKKIVIIEGADHTFNRREWEDKVIELTIEWFKEN
+FKL---------------------------------------------------------------------
+---------------------
+>gb|MCD6289580.1|/1-253  [completeness=complete] [organism=Anaerolineae bacterium] [isolate=AUK314] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Anaerolineae bacterium]
+-----------------------------------------------------------------MSETLIS
+FTNEGMRLYGMLHRPDE----------------DG-PHPAVMILHGFTGQRVEPHRIFVKLARRLAAEGIAA
+LRFDFRGSGESEGEFADMTVLGEVSDALTGLDWLRAQDGIDPERLGVLGLSLGGCVAAITAGRRPEQVKALV
+LWSAVAHLVKSFEQQ-------------ET-P-PPRVENGYDL-GGNIMGDAFLAELP--NVRPLVEVT--H
+Y-KGPALIVHGANDAVVPPTDADAY------AKALS-GRARKHMIPEADHTYNRVPWEQEVLSVTTAFFRET
+LLA---------------------------------------------------------------------
+---------------------
+>gb|MCD6317676.1|/1-253  [completeness=complete] [organism=Candidatus Aerophobetes bacterium] [isolate=AUK284] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Candidatus Aerophobetes bacterium]
+---------------------------------------------------------------MKERMEAVS
+LEVDGQKLRGMIHFPSG----------------EG-PFPAVALFHGFTGQRMEPHFIFVKLARLLAKNKIIA
+VRFDFRGSGESEGEFQDMTIPGEVEDGIRIVDFLKEHLLVDKDRLGIVGLSLGGCIARLVATKQD-NIKCLV
+FWSAVASPEELIKQKLTE-------------EYQVTKEGYIDF-GGNKVGKDFLATLP--RVEGPESLS--A
+Y-RGKALIIHGTKDDTVPLEHAYQL------KKI-L-PFSQLKKIEGADHTYNRVDWEEEVLRKTVNFLKDN
+L-----------------------------------------------------------------------
+---------------------
+>gb|ADZ52807.1|/1-254  [organism=uncultured bacterium] [gcode=11] [clone=pBW2] [country=Russia: Kamchatka] [isolation_source=thermal spring] [tech=concept-trans-a] carboxylesterase [uncultured bacterium]
+-----------------------------------------------------------------MAEHFVQ
+FRVEGQAVYGMLHLPEG----------------NG-KFPAVALCHGFTGNRIEAHRLFVKMARLLAANGFAA
+LRFDFRGSGESEGEFEQMTVSGEITDALAALDFLRKQPEIDPNRIGLIGLSLGGCVAACAAARD-GNVKTLV
+LWAAVADLKGSFVEKMPT---------DVR-E-LLEKQGWLDF-GGWKVSKRFYEDAA--KIDPLKEAT--R
+Y-DGAVLIVHGANDPVVPVDHAHRY------HEAFR-CTKRLHIVPEADHTFARLNWEEEVMRLTLDWMKTH
+L-----------------------------------------------------------------------
+---------------------
+>gb|KPJ59057.1|/1-256  [completeness=complete] [organism=Planctomycetes bacterium DG_23] [isolate=DG_23] [metagenome_source=sediment metagenome] [gcode=11] [country=USA: White Oak Rive Estuary, North Carolina] [isolation_source=Methane-rich estuary sediments 52-54 cm] [lat_lon=34.7414 N 77.1234 W] [collection_date=Oct-2010] hypothetical protein AMS15_07265 [Planctomycetes bacterium DG_23]
+------------------------------------------------------------------MLRAVE
+LLSEREVIRASLHLPGR----------------KR-KCPGVLLCHGFTGNRIEAHFLFVKMARALEAKGMAA
+LRFDFRGSGESEGRFHDMTLSQEIADARAALKFLGRRREVDGGRLGILGLSMGGCVAGCILGLES-GIKSAA
+LWSAPAHIRELFISKLEP---------EEL--VRFMRRGYTEF-GAFRIGKAFALDLA--NINPLAGIA--R
+S-AAPILIVHGTEDETVPLSESEALYQTA--RSR-G-VRTEKYIVKGADHTFNGVRWERRVIERTASWFGET
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBO3797849.1|/1-264  [completeness=complete] [organism=Candidatus Brockarchaeota archaeon] [isolate=DRTY-6.bins.80] [metagenome_source=hot springs metagenome] [gcode=11] [country=China: Tengchong county, Yunnan, DRTY-6 pool] [isolation_source=hot spring sediment] [lat_lon=24.95389 N 98.43833 E] [collection_date=2017-05] alpha/beta hydrolase [Candidatus Brockarchaeota archaeon]
+---------------------------------------------------------MLKPDSRKMEEAPVF
+VNVSGERIHGVIHIPEE-----------------T-PAPTVVFCHGFTGNRIEAHRLFVRAARKMSMKGFVA
+VRFDFRGSGESEGEFENMTVSSEIIDLNTVLSFLCERSEVDCDKIGLVGLSLGGAVSILTAARN-HKVKAVC
+TWSSPAEFRIISD---GVKAF-----GMDL--KKILEKGYLDLPSGYRVGRDFFTDIL--KHDILDSCS--K
+ISPRPLLIIHGLEDSVIPVEHAHMLYER-----A-G-EPKKLIIIDGADHTFSRRDWEDRVIEITTEWFKKS
+L-----------------------------------------------------------------------
+---------------------
+>ref|WP_248662416.1|/1-256  [completeness=complete] [organism=Fuchsiella alkaliacetigena] [gcode=11]
+------------------------------------------------------------------MEKPVL
+FGKEGSEMVGILHIPDS--------------KTDY-PKPAVIICHGFKGDKVGPHRIFVKMARKLAEKGIVA
+FRFDFRGSGDSKGSFKETKISSQIEDGLEAIKFVSKLEQVNSSRLALLGFSLGGLIASCVAARS-TGVKFLV
+LWSAIADLEEVFTAKSS-A--------ENL--ASLNEQGYMDL-GGLKLGANFVEELE--QIEPLAEIE--E
+Y-QGSAFIIHGSEDQVVPVKHSEEYYDLF----S-A-QNCRKHIVLGADHTYNKSEWEAEVLNRTSQWLIEN
+I-----------------------------------------------------------------------
+---------------------
+>gb|MBC7259087.1|/1-253  [completeness=complete] [organism=Chloroflexi bacterium] [isolate=MAG-34] [metagenome_source=oil production facility metagenome] [gcode=11] [country=China: Dongying] [isolation_source=Shengli oilfield at Shandong province] [lat_lon=38.15 N 118.5 E] [collection_date=2016-04-11] alpha/beta fold hydrolase [Chloroflexi bacterium]
+------------------------------------------------------------------MEKLVV
+FQNQGQNLYGMLHLPEG----------------PT-PCPAVVLLHGFTGHRSESHFIFTKQARHLAQHGIAA
+LRFDFRGSGESEGDFADMTIEGEISDAAAALDWLSAQPEIDQARLGVLGLSLGGLVAACLAGRDP-RVRALV
+LWAAPANLAEVLTKGAAN---------ASR-P-PAAHPSGYDI-GGLVVGHEFIRQMM--AIRPLDELR--R
+F-AGPTLVVQGTADASVPPDDAHKY------LQALT-GPKALKMVEGADHTFSSIAWEKEVITASTRWFAQH
+L-----------------------------------------------------------------------
+---------------------
+>gb|RMF28417.1|/1-262  [completeness=complete] [organism=Chloroflexi bacterium] [isolate=J086] [metagenome_source=hot springs metagenome] [gcode=11] [country=Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen] [isolation_source=iron-rich hot spring] [lat_lon=34.318 N 139.216 E] [collection_date=2016] alpha/beta hydrolase [Chloroflexi bacterium]
+-----------------------------------------------------------------MAEELIS
+FTNAGQRLYGMLHRPDG----------------AG-PFPAVAMLHGFTGNRFEPHRLFVKTARDLAAHGIAA
+LRFDFRGSGESEGDFADVTVSGEVSDARAALDFLAAHPSVDADRLGLLGISLGGCVAALLAGDD-DRVKALV
+LWSAVGHLLEVLTSLAPP---------GAA-E-QMQHQGWVDL-GGWKLGMDFIRELP--DLDPLEAVA--R
+Y-SGPALILHGDADESVPVSEAHAY------ARQMG-QRAQVHIIPGADHTYNRLDWEAEVIRRSREWLVEH
+LASSASSPG---------------------------------------------------------------
+---------------------
+>gb|NLU54582.1|/1-252  [completeness=complete] [organism=Firmicutes bacterium] [isolate=AS02xzSISU_61] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------MREPVY
+FENQGQRLIGVLHKPEG----------------AG-PFPTVCFFHGFTGNKAEAHRIFVAQAEELVKNGISA
+FRFDFRGSGDSEGEFADMTFGGELSDALKAVEYLRGREDV--ADIAILGLSMGGALAAEVAGRA-QGLKAAV
+LWSAVGNFMECHVGKNIA--------------RAAAGGFPIDW-GGWLVSEQFVNDII--SYNPFASIA--K
+A-TAPVLLVHGTKDDAVQVEQVYEYDKV--LTEA-G-VPHELKIIEGADHVYCRQDWKKEAIRTTTDFLVRH
+LK----------------------------------------------------------------------
+---------------------
+>gb|MBN1269266.1|/1-257  [completeness=complete] [organism=Kiritimatiellae bacterium] [isolate=Zod_Metabat.531] [metagenome_source=freshwater sediment metagenome] [gcode=11] [country=USA: Anadarko, OK, Zodletone Spring] [isolation_source=Freshwater Sediment] [lat_lon=34.99562 N 98.68895 W] [collection_date=Sep-2017] alpha/beta fold hydrolase [Kiritimatiellae bacterium]
+------------------------------------------------------------------MEKPIT
+FRVQQQQLIGMLHMPDE---------------ASA-PAPAVVFLHGFRGNKQEAHRMFVKMARALCAAGIAA
+LRFDYRGSGDSEGEFSQVTITGELKDAAAALRFIRRRKGIDPARVGLAGMSMGGMVAVLAAAR-DPGLKAVA
+LWSALANPRRSAQEKTTP---------TST--NQLQQMGFTDM-NGWAVGAALVRDLM--SLRPLAAAA--Q
+V-NAPVLLVHGDQDTTVPVEDAHAYEAVF--K-AAG-RQVVKHIVPGAEHTYDSIPWETEVIGLTLEWFRKY
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCD6404886.1|/1-257  [completeness=complete] [organism=Planctomycetes bacterium] [isolate=AUK274] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Planctomycetes bacterium]
+------------------------------------------------------------------MQKAHY
+FKNKGQLIAGTLHLPAG----------------RK-PCPGVVILHGFTGWKCEPHFIFVGLSRRLADEGIAS
+LRFDFRGSGESEGLFEDMTPLEELSDARAALAEIRGQRRIDSRRLGVVGLSLGGMMAALLAGKER-SVKSVV
+LWSAPARPDKLFKAARPK---------KDL--KRIQEEGRLDI-GGLYLGRAFLETLP--GIDPPAELA--K
+S-RAPALVIHGSGDEGVPYSHSGDFLRAG--KAR-G-IRTERLRIEGSDHVYSSIPWRNEVIEATVSFLKET
+LV----------------------------------------------------------------------
+---------------------
+>tpg|HID91356.1|/1-266  [completeness=complete] [organism=Candidatus Bathyarchaeota archaeon] [isolate=UWMA-0209] [metagenome_source=marine metagenome] [gcode=11] [country=Atlantic Ocean: Mid Cayman Rise] [isolation_source=Mid-Cayman Rise Vent Fluids] [lat_lon=18.375 N 81.7976 W] [collection_date=2017-04-15] alpha/beta fold hydrolase [Candidatus Bathyarchaeota archaeon]
+------------------------------------------------------MHSSQRDLGTALTEEPVS
+FTCEGMRIAGMLHVPER-----------------T-PAPGIIFCHGFTGTRIEAHRLFVHAARHLCERGFTV
+LRFDFRGSGESEGLFRDMTISGEIDDLRTAIGWLMKRREALGETIGVNGLSLGGVVAILTAARD-LRIKAVS
+LWSTPADLMAL-----SRALPG------TV--DKLLRQGYLDLDSGDRIGSGLVTDLR--RFNIIEDVS--K
+IAPRPLLIVHGTDDLTVPLWHAERLYEA-----A-R-EPKERFFVEGADHTYNRWDWQWAVIERTADWFERR
+LGP---------------------------------------------------------------------
+---------------------
+>gb|NQT19943.1|/1-256  [completeness=complete] [organism=Planctomycetes bacterium] [isolate=bin.53] [metagenome_source=aquatic metagenome] [gcode=11] [country=Canada:Ellesmere Island, Lake A] [isolation_source=High-Arctic meromictic Lake A] [lat_lon=82.59 N 75.26 W] [collection_date=2017-07-18] alpha/beta fold hydrolase [Planctomycetes bacterium]
+------------------------------------------------------------------MQKPLY
+FENEGQLITGTLHAPQG----------------EG-PWPGVIFCHGFTGSRLESHFLFVAASRALAERGIAS
+LRFDFRGSGESEGEFVEMTPSAEISDARRAFHVLAQQPEADASRLGIVGLSLGGLVAACTAGVEH-RARSVV
+LWAAVADMARVVNASSTP---------ENE--REFASQGWTDL-AGHKLGRAFIQDMA--THDPVSRIA--E
+A-DSALLIIHGSDDQSVNVEDAETFYSKA--QRP-G-REVAKLIIEGADHTFNRVSWTETVIRATADWLEKT
+L-----------------------------------------------------------------------
+---------------------
+>gb|MXY27958.1|/1-234  [organism=Candidatus Poribacteria bacterium] [isolate=SB0664_bin_42] [nat_host=Ircinia ramosa] [metagenome_source=sponge metagenome] [gcode=11] [country=Australia: Great Barrier Reef] [lat_lon=18.49 S 147.38 E] [collection_date=Oct-2016] alpha/beta fold hydrolase, partial [Candidatus Poribacteria bacterium]
+------------------------------------------------------------------------
+---------------------------------DA-PCPAVAFFHGFTGTKVEPHRIFVKTARELAAIGFYV
+LRFDFRGSGDSEGDFSEMTIGGEVSDAIKSIDVLTAMPGVDAERIGILGLSMGGCVAAFVSGQN-ARVKSTV
+MWAPLSDDPPDRKNEILGR------AKNTP--TPEELA---LA-NPNIVGKAFYEELP--KISPSATLQ--A
+F-RGALLVIHGSADDVVPVSHGKRYYEL--MRGR-E-APTELEIIDQGDHTFNTVASEQAVIAKSVEWFQRT
+LA----------------------------------------------------------------------
+---------------------
+>dbj|GBC99925.1|/1-254  [organism=bacterium HR17] [isolate=HRbin17] [gcode=11] [isolation_source=ammonia-oxidizing enrichment culture] [note=contig: NODE_505_43;~metagenomic; derived from metagenome: thermophilic ammonia-oxidizing enrichment culture] Dipeptidyl-peptidase 5 [bacterium HR17]
+----------------------------------------------------------------------MQ
+FEVQGQRIYGMLHLPDVAAKN-----------SGT-KVPAVAMCHGFTGNRIEAHRLFVKAARYFAANGFAV
+LRFDFRGSGESEGDFEQVTVSDEIADALAALAFVRRQSVVDENRIGLIGLSLGGCVAACAAARD-RRVKALV
+LWAAVADLREVFTTRWGD---------TIK-A-QMQAQGFWDM-GGWKISKAFYEDAL--RIDPLREIA--S
+Y-DGAALVVHGTNDAAVPVDHAHRY------HAALR-CTKRLHLVIGADHTFARTDWEAEVFAETLNWLQTH
+L-----------------------------------------------------------------------
+---------------------
+>gb|MBN1153958.1|/1-275  [completeness=complete] [organism=candidate division KSB1 bacterium] [isolate=Zod_Metabat.605] [metagenome_source=freshwater sediment metagenome] [gcode=11] [country=USA: Anadarko, OK, Zodletone Spring] [isolation_source=Freshwater Sediment] [lat_lon=34.99562 N 98.68895 W] [collection_date=Sep-2017] alpha/beta fold hydrolase [candidate division KSB1 bacterium]
+-----------------------------------------MKTNMA-----------QKYKYSSIEEWPIQ
+IYRGGVRLIGMMHHPDE---------------SHG-NYPAVMLLHGFTGHKSESHFLFTRLARALASSGVLA
+LRFDFAGSGDSDGNFRDMTIESELDDARAAFAYLSDHHCIDRDRIGVLGLSLGGCVASLLAGETE-TIKSLA
+LISAIAHPKQIFSRYTDMF-------PKMV-D--KDGRWYIDR-NGFPVGDTFFHNLS--RMKPLDKIA--G
+Y-KNPALIIHGKDDLVVPVTEAQAYADVL--TARNGDSLTEVEFVDGADHVFASMRLSAELIDRIVDWFLDT
+LL----------------------------------------------------------------------
+---------------------
+>gb|OQA24747.1|/1-258  [organism=Verrucomicrobia bacterium ADurb.Bin345] [isolate=ADurb.Bin345] [metagenome_source=anaerobic digester metagenome] [gcode=11] [country=USA: Urbana, Illinois] [isolation_source=Full-scale anaerobic digester operated by the Champaign-Urbana Sanitary District treating a mixture of municipal and industrial waste activated sludge and municipal sewage] [lat_lon=40.12 N 88.20 W] [collection_date=2013] [tech=concept-trans] esterase [Verrucomicrobia bacterium ADurb.Bin345]
+------------------------------------------------------------------METPVV
+FQSQRQAVVGMLHVPDR---------------RKG-RVPGVVLLHGFTGTKVESHRMFVKMARVLCGAGMVV
+LRFDFRGSGDSAGEFSTMTIGGELQDARAAMRFMRARPEVDPRRVGVLGLSMGGMVAALLLGE-DKRIPVGV
+LWAAVADPRKQVARKMTP---------EAR--KQLKQLGCADY-GGHAVGRGFFDDIV--KHEPLKAIQ--R
+T-AAAVLVVHGDQDETVPVRASADYEKAL--K-KAG-RAVIRHVVPGASHTFAALSWETEVLGLTMEWFRCN
+LL----------------------------------------------------------------------
+---------------------
+>gb|MCG3148319.1|/1-257  [organism=Verrucomicrobiae bacterium] [isolate=Bin_23R] [metagenome_source=bioreactor metagenome] [gcode=11] [country=USA:Nine Springs Wastewater Treatment Plant, Madison Metropolitan Sewerage District, Dane County, Madison, WI] [isolation_source=alternating anaerobic and microareobic bioreactor] [lat_lon=43.07 N 89.40 W] [collection_date=2017-05-26] [tech=concept-trans] 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [Verrucomicrobiae bacterium]
+------------------------------------------------------------------METPVV
+FDSKGQQIVGMLHLPNG----------------RG-RAPAALLLHGFTGTKSETHRMFVKLSRKLADHGIAS
+LRFDFRGSGDSAGDSEDLTIRSQVADALEALRYLARHRRINSRRLALVGMSMGAAVAAMVVGRERTRFKTMT
+LWAPVAEGAGILDNLSTP---------EAV--ASLAQTGITDH-DGNLVGVGFIRQFA--EMRPLREIV--K
+T-RCPVLLVHGTRDATVPHQHSDMYEKTL--L-HHK-RIVKKVLVPGADHPFRKHIWEQRVIGETVDWLLET
+L-----------------------------------------------------------------------
+---------------------
+>ref|WP_089749701.1|/1-257  [completeness=complete] [organism=unclassified Candidatus Frackibacter] [gcode=11]
+------------------------------------------------------------------MEKPVR
+FGESGEEMFGVLHIPEC--------------KTSY-PKPAVIFCHGFKGDKVGPHRLFVKMARRLAKNGILV
+FRFDYRGCGESLGRFVDTTISSQIDDTLTAINFVSQLKRVNSSQLGLLGLSLGGAVASCAAARS-KQIKALV
+LWSAVADIQKVFLSQRPED--------GSL--EQINEKGYIDL-EGFRLGKEFVMEVN--QINPLTEIK--E
+Y-KDLVFLAHGSEDEVVPIENIESYYDTV----I-T-KKCQKHIVVGADHTYNSYEWEKEVMEKTQQWLIEN
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCD6352227.1|/1-259  [completeness=complete] [organism=Armatimonadetes bacterium] [isolate=AUK298] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Armatimonadetes bacterium]
+---------------------------------------------------------------MSQPHELLW
+IETAEGALAASFHLPAQ---------------ASG-PVPAVLMCHGFTGHRQEAHFLFVHAARLFAQCGLAV
+LRFDFRGSGESSGEFWEMTFESEVADALAAFDYLAGRPEIDPQRVAVLGLSLGGAVAACVAGREP-RVAALV
+LWSAVSELELLAKRFADE----------HA-P-HHLPDGRWEL-GGLGLGQEFVDTIA--DARPLDEAR--A
+F-SKPCLIVHGTKDETVNVSHAHNY------ARTLG-DKARLHLIEGADHVFARLDWEQEASEVTAEFLADV
+LGAS--------------------------------------------------------------------
+---------------------
+>ref|WP_078810512.1|/1-257  [completeness=complete] [organism=Selenihalanaerobacter shriftii] [gcode=11]
+------------------------------------------------------------------MEKPVL
+FGKGAKKMLGILHIPDC--------------KTDY-PKPAVILCHGFKGNKIGPHRIFVKMARNLAENGIVA
+FRFDYRGSGDSFGDFKETTISGQVEDALEAVELISQLDEVNSSQLGLLGLSLGGAVAACTAAKS-QNIKALV
+LWSAVAEIQKVFLAQKPKD--------NAL--QTLDEQGYIDL-DGSKLGKDFVNEIN--EINPLSRIK--K
+Y-KNLLFLVHGSEDEVVPVENTEAYYDNS----I-A-EECQKHIVAGADHTYNNSDWEEEVLNKTLQWLIEN
+L-----------------------------------------------------------------------
+---------------------
+>tpg|HDS74114.1|/1-343  [organism=Firmicutes bacterium] [isolate=SpSt-1187] [metagenome_source=sediment metagenome] [gcode=11] [country=USA: California] [isolation_source=hot spring sediment] [lat_lon=39.0314 N 122.4323 W] [collection_date=2014-09-02] [note=Metagenome-assembled genome binned from sequencing reads available in SRR5216255] alpha/beta fold hydrolase, partial [Firmicutes bacterium]
+------------------------------------------------------------------MELPIA
+FENEGQQLIGVLHVPNG----------------AS-KVPGVVMCHGFTGNRSESHFLFTKAARAFAEAGIAV
+LRFDFRGSGDSDGSFEDMTISSEISDAVRAIEVLAQRPEVDANRIGIVGLSLGGCVAACATARSE-RVRATV
+LWAPVHDPKVIAYHRNAT---------EQV--FPWEF-----T-GGLLLGEALVRELP--TIDPVAELR--N
+V-RGPVLILHGSADQTLPVEGSEAFVRAI--ESA-G-GQVEREIVDGADHTFASVNHERYAIDRTASWFRDV
+FAAIEPEIAPSAKRISYADAGVDIEAANVTKKRLRELVRESYTPNVLTELGSFGGLFLANFPDLEEPVLVSS
+TDGVGTKLKVAIAANRHDTVG
+>gb|MBN1458832.1|/1-248  [completeness=complete] [organism=Armatimonadetes bacterium] [isolate=Zod_Metabat.349] [metagenome_source=freshwater sediment metagenome] [gcode=11] [country=USA: Anadarko, OK, Zodletone Spring] [isolation_source=Freshwater Sediment] [lat_lon=34.99562 N 98.68895 W] [collection_date=Sep-2017] alpha/beta fold hydrolase [Armatimonadetes bacterium]
+------------------------------------------------------------------MEIQVA
+FQSGDDQIFGVLHLPTG-----------------T-PAPGLIMCHGFTGHKAEAHRLFVAAARDFASHGLAV
+LRFDFRGSGDSGGDFKDMTVSREIEDAVAALDFLAARPEVRPDHVGVLGLSLGGCVAACLAGRDS-RVRALV
+LWSAAAHPARLAERLR---------------P-QLQGG-LADI-DGWAVGNALLDDIA--SIDPLTEVS--R
+F-TGPSLVVHGTEDQSVPVSDASDY------RVALG-GRCALHLMQGADHVYSTLAFTAEAIEVSRSFMVQG
+LGQ---------------------------------------------------------------------
+---------------------
+>gb|MBM3861044.1|/1-257  [completeness=complete] [organism=Verrucomicrobia bacterium] [isolate=M_DeepCast_400m_m2_235] [metagenome_source=freshwater metagenome] [gcode=11] [country=Tanzania: Lake Tanganyika, Mahale] [isolation_source=freshwater lake] [lat_lon=6.2556 S 29.5108 E] [collection_date=2015] alpha/beta fold hydrolase [Verrucomicrobia bacterium]
+------------------------------------------------------------------METPVV
+FESKGQQIVGMLHLPNK----------------RG-RVPGVLLLHGFTGHKGEAHRMFVKLARCLVARGMGV
+LRFDFRGSGDSAGEFEGMTIRSQIADAQEAVRFLGRHKRVNSKRLAVVGLSLGGAVATHLTAREKKRVQSLV
+LISPVADGTGILDELTTP---------EAV--VSLAQTGIVDY-FGNRVGVQFIRQFA--DMKPLQEAV--K
+C-QCPVLLIHGSKDETVPLEHTEMYERAL--Q-GAK-RTVKKVVVAGADHMFNRHLWEQRVLTETADWIVNT
+L-----------------------------------------------------------------------
+---------------------
+>gb|KPV64365.1|/1-269  [organism=Candidatus Bathyarchaeota archaeon BA1] [isolate=BA1] [metagenome_source=hydrocarbon metagenome] [gcode=11] [country=Australia: Surat Basin, Queensland] [isolation_source=Formation waters from coalbed methane well] [lat_lon=26.3686 S 149.0963 E] [collection_date=25-Nov-2013] [collected_by=Paul Evans] [tech=concept-trans] esterase [Candidatus Bathyarchaeota archaeon BA1]
+--------------------------------------------------------MISKIEVDKVKEEYVF
+FMNEGEKLVGVFHIPEC-----------------I-PAPTIIFCHGFTGNRIEAHRLFVYAARESCKRGFAA
+LRFDFRGSGESEGSFQSMTISREISDLEAALSWLYEREEVLKDKIGVTGLSLGGVVAILTAARD-ERIRALC
+TWSTPAEFRAL--QNAAKIVFG----EIEI--EKLVAKSYIDLPSGDRIGREFLIDAP--KHNILESVV--K
+ISPRPLLIIHGTKDPYIPIWQAEKLYKG-----A-K-EPKQKFFVDGADHTFNRWDWQWAVIRHTADWFEKA
+LSL---------------------------------------------------------------------
+---------------------
+>gb|MBE3575998.1|/1-225  [completeness=complete] [organism=Firmicutes bacterium] [isolate=Bu52] [metagenome_source=coal metagenome] [gcode=11] [country=Russia: Republic of Buryatia] [isolation_source=coal] [lat_lon=51.195168 N 106.491027 E] alpha/beta fold hydrolase [Firmicutes bacterium]
+------------------------------------------------------------------------
+-------------------------------------MPAVLLLHGFTGHKLESHRMFVKMARRLAQEGIIA
+LRFDFRGSGDSAGDFADMTVANELSDAEAALAWLQARPEVDPARVGVLGLSLGGAVASLLASRHARELRAVA
+LWSAVADLSLMARHAQ---------A------DRRLSDGRVDL-GGNVVGPAFFTDLS--LHDLQAAAH--R
+Y-SGPVLIVHGTADQSVPPEHARRYQAA-----F-P-GPKVLHWVDGADHTYNSFEWEQEVLQVTADWLRDR
+LA----------------------------------------------------------------------
+---------------------
+>gb|NLO04234.1|/1-260  [completeness=complete] [organism=candidate division WS1 bacterium] [isolate=AS10tlH2TH_342] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [candidate division WS1 bacterium]
+------------------------------------------------------------------MEQFRE
+FEVEGQRLAASIHIPGA-----------------V-PAPAVVMCHGFTGDRVEAHFLFVKAARAFCAAGLNV
+LRFDFRGSGESDGRFRDMTINAEIEDATAAIKLVRSEETVDPERVALLGLSLGGLVSACTAGRGG-DIAALV
+LWSAVADIGEIIRERWHW---------QTD-PGRIDIRGYYER-GAHQVGAGFVLDAL--RIRPLEEIA--G
+H-EAPVLVIHGTEDAAVPIGHAQRYM-----DAAVS-TDSTLRIIDGSDHTFTSVAWEEEVIGRTTAWLTDR
+LGVEASE-----------------------------------------------------------------
+---------------------
+>gb|NOZ26913.1|/1-259  [completeness=complete] [organism=Chloroflexi bacterium] [isolate=M_MetaBat.114] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: East Pacific Rise] [isolation_source=Deepsea hydrothermal sulfide chimney] [lat_lon=9.7712 N 104.2789 W] [collection_date=01-Jan-2014] alpha/beta fold hydrolase [Chloroflexi bacterium]
+-----------------------------------------------------------------MLEELIH
+FTNEGLRLYGMLHRPEG----------------AG-PHPAVMILHGFTGQRIEPHRLFVKLARQLTAAGVAA
+LRFDFRGSGESEGEFADMTILGEVSDALAGLDWLAAQSGIDPDRLGVLGLSLGGCVAAITAGRRPEQVRALT
+LWSAVARPERIFRRRMDDF-------PAEQ-R-PIRVERGYDI-GGNILGDAFLAELP--QVQPLAEVA--R
+Y-AGPALIVHGAQDDVVPPTDADAY------EAALP-GRVTKHIVAHADHTYNRASWEREVLQVSVDFFRSE
+LQR---------------------------------------------------------------------
+---------------------
+>gb|OFZ78664.1|/1-264  [completeness=complete] [organism=Bdellovibrionales bacterium RIFOXYD1_FULL_53_11] [metagenome_source=subsurface metagenome] [gcode=11] [country=USA: Rifle, CO] [isolation_source=Rifle well CD01 at 16ft depth; 0.1 micron filter at time point D] [lat_lon=39.5369 N 107.7828 W] [collection_date=12-Dec-2012] hypothetical protein A2583_07105 [Bdellovibrionales bacterium RIFOXYD1_FULL_53_11]
+-----------------------------------------------------------------MEETPVV
+FKSEGQQIVGILHKPAWDMAR---------G-PAP-AHPVVVFFHGFTGHKIEVRRMFVRAARQLAAKGIAA
+LRFDFRGSGDSEGDFSQMRVPGLVADARAALAFARELPGVDPARMGIVGFSMGGMIGASVLAV-ELSLRAAV
+LWSPVAHPGALVDDLRSD----------WT--GGGSRRGMIDL-GGWSVSRAFMSEYA--GTKPLEAFETSR
+V-TARVLLIHGNDDEVVPVGHSYDYQNAL--R-GAG-ARVKLQVMEGAGHTFESIDLDRRVINATTNWLGRN
+L-----------------------------------------------------------------------
+---------------------
+>tpg|HDP98261.1|/1-288  [completeness=complete] [organism=bacterium] [isolate=SpSt-1156] [metagenome_source=sediment metagenome] [gcode=11] [country=USA: California] [isolation_source=hot spring sediment] [lat_lon=39.0314 N 122.4323 W] [collection_date=2014-09-02] [note=Metagenome-assembled genome binned from sequencing reads available in SRR5216255] alpha/beta fold hydrolase [bacterium]
+-----------------------------MKKLM-ILLAILIASSHC-----------KSKVDMRTEEKPVL
+IQRNGLQMVGMLHTPVE---------------NGS-RHPAVMLLHGFTGNKSESHFLFTKLARQLAENGIIC
+LRFDFLGSGDSQGEFEEMTIFTELEDAKVACQFLSQQPEVDANRIGVLGLSMGGCVAALLSRERA-DIKSVA
+LLSAVARPEENFQRLVGNF-------PKTY-R--ETGDWYIDH-GGFAVGKNFFDSLP--EVMPLKAIS--S
+Y-QGSVLIIHGSNDQAVPLSAAYDYHQSL--NQRQS-GAVELFIVDKADHVYSSIPLTTQVIDKVADWFERT
+LSLDK-------------------------------------------------------------------
+---------------------
+>gb|NCC51005.1|/1-255  [completeness=complete] [organism=Spartobacteria bacterium] [isolate=INTA.AUR.068] [metagenome_source=wastewater metagenome] [gcode=11] [country=Argentina: Vila, Santa Fe] [isolation_source=first pond of the AUR serial dairy industry stabilization pond system] [lat_lon=31.201857 S 61.822226 W] [collection_date=05-Sep-2013] alpha/beta fold hydrolase [Spartobacteria bacterium]
+------------------------------------------------------------------MEKPIS
+FKVNKQQVVGMYHCPDE---------------GEG-PFPAVVCFHGFTGNKQESHRLFVKLCRALAVAGMAS
+LRIDFRGSGDSEGDFSMMTISQEMQDARAALKFLRRRAEVDETRIGILGMSMGGLVAAYMLGE-HDWVKTGV
+LWGAVAHPAKSADNKRK-----------DF--EYIPAMNCYQR-NGWLISEAFVEELY--TLDPLEVIS--N
+T-SASVLLLHGENDITIPVGDAYAYERAL--K-QSG-HRVALRVIPESSHTFDSLAWETEVLGDTIAWFRTC
+L-----------------------------------------------------------------------
+---------------------
+>gb|NPA90160.1|/1-258  [completeness=complete] [organism=Chloroflexi bacterium] [isolate=L_MaxBin.078] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: East Pacific Rise] [isolation_source=Deepsea hydrothermal sulfide chimney] [lat_lon=9.7712 N 104.2789 W] [collection_date=01-Jan-2014] alpha/beta fold hydrolase [Chloroflexi bacterium]
+-----------------------------------------------------------------MREQFQW
+LQNKGQRIASMLHLPDE----------------QK-PHPGILMLHGFTGHRMESHLLFVKAARTFARAGYTV
+LRFDFRGSGESEGRFQDMTIPEEIDDALHVFNWFAAHPTVDPERLTVLGLSMGGCIAAHVAGMDD-RVKALI
+LWAPVADPDSLTTHIAETT-------PLDP-PLGPQPDGTIDL-GGYLVGPEFLETLP--DIKPLQVVK--N
+Y-TGPALIVHGTKDPSVPPSHAEMY------KEVLG-DRAELVWVEGADHTFSAHVWEQFVFRTTLEWLKKH
+GP----------------------------------------------------------------------
+---------------------
+>gb|RLE63352.1|/1-265  [completeness=complete] [organism=Thermoprotei archaeon] [isolate=B69_G16] [metagenome_source=marine sediment metagenome] [gcode=11] [country=Mexico: Guaymas Basin, Gulf of California] [isolation_source=deep-sea hydrothermal vent sediments from dive 4569_2 depth 12-15 cm] [lat_lon=29.52416667 N 113.57000000 W] [collection_date=30-Nov-2009] alpha/beta hydrolase [Thermoprotei archaeon]
+---------------------------------------------------------------MCVKEEFVS
+FYNKGERIVGTFHIPEN-----------------I-PAPVIVMCHGFTGNRIEAHRLFVHAAREFCRKGFAV
+LRFDFRGSGESEGLFESITVSGEISDLEAAIDWLYTRSEVLKEKIGVIGLSLGGIVAILTASRD-ERIRAVC
+TWSAPADFRDLIFMNAIKKVFG----NIEV--DELFSREYIELPSGYRIKRDFLDDLF--KHDILGSIA--K
+ISLRPLLIIHGTNDQLVPLSQAEKLFKA-----A-R-NPKEKYYVKDADHTFNRWDWQWQVINYTLNWFSKN
+LIAP--------------------------------------------------------------------
+---------------------
+>ref|WP_013278297.1|/1-257  [completeness=complete] [organism=Acetohalobium arabaticum] [gcode=11]
+------------------------------------------------------------------MEKPIL
+FGESKSEMLGILHTPEC--------------KTDY-PKPAVIFCHGFQGNKIGPHRIFVKMARKLAANGITV
+FRFDYRGSGDSSGDFIDTTISGQIEDTLTAIDYVRQLDRVNESQLGLLGLSLGGAVAALATART-DKIKALV
+LWSAVADIQKVFLAQRPEN--------YDE--EKVNKQGYIDL-DGYRLGSRFIAEIG--EIDPLAEVE--G
+D-NNSVFLVHGSEDEVVPIENTDKYYNTF----S-S-EVCKKHIVVGSDHTYSKHEWESEVLDKTEEWLIEN
+L-----------------------------------------------------------------------
+---------------------
+>ref|WP_204486760.1|/1-257  [completeness=complete] [organism=Caldicoprobacter guelmensis] [gcode=11]
+------------------------------------------------------------------MQKAVE
+LHKNGMTLRGMLHKPDN---------------VTG-KLPMALIFHGFTGNKMEPHFIFVKLSRRLEQAGIAS
+LRFDFLGSGESDGEFKDMTLSGELDDAEAILNYAKSLEFVDKDKIFAVGLSMGGAVASMLAGRHPQDIAALC
+LWAPAGNMGQLIQERIKQIQ-------AAG--VNIGSMEYFDL-GGNLVGKGFIEDVL--SLDIFSVAA--P
+Y-DKRVLILHGDRDEAVPLKTSYRYLEV-----Y-G-DRAKLHVIEGADHTFNKWEWEQEVIEKTVEFLKSH
+V-----------------------------------------------------------------------
+---------------------
+>gb|RLI19034.1|/1-258  [completeness=complete] [organism=Candidatus Bathyarchaeota archaeon] [isolate=B29_G1] [metagenome_source=marine sediment metagenome] [gcode=11] [country=Mexico: Guaymas Basin, Gulf of California] [isolation_source=deep-sea hydrothermal vent sediments from dive 4569_9 depth 0-3 cm] [lat_lon=27.015 N 111.379 W] [collection_date=30-Nov-2009] alpha/beta hydrolase [Candidatus Bathyarchaeota archaeon]
+-----------------------------------------------------------------MEEKPVF
+FVNEGERLVGMLHVPDE-----------------T-PAPIVVFCHGFTGHRIEAHRLFVHAARAFCRHGFLA
+LRFDFRGSGESEGLFQSMTVSGEVSDLKAAISWVENLDEVEKGRVGVVGLSLGGVVVILTASQD-DRIRAVA
+AWSAPADLSEV-----AKGVLG----GVGL--EEVASRGYLDLPSGYRVGYGFVSEAYSMKHAVLSAVS--K
+ISPRPLLIVHGTEDQVVPPSHAERLYKT-----A-G-EPKSLFMVEGADHTFSRWELQWKVINHTVEWFEEN
+LK----------------------------------------------------------------------
+---------------------
+>gb|OPX23688.1|/1-254  [completeness=complete] [organism=Candidatus Latescibacteria bacterium 4484_107] [isolate=4484_107] [metagenome_source=marine sediment metagenome] [gcode=11] [country=USA: Guaymas Basin, Gulf of California] [isolation_source=deep-sea hydrothermal vent sediments] [lat_lon=27.0388 N 111.24560 W] [collection_date=Dec-2008] hypothetical protein B1H02_04695 [Candidatus Latescibacteria bacterium 4484_107]
+------------------------------------------------------------------MENPIV
+FKNHGQQLIGILHTPDD----------------KK-THPAVLLLHGCTGSKSEGHWLFVKLARSLCEAGFSV
+LRFDFRNSCDSEGSFEHMTLSGEISDGLKALAVLSEQAGTDPERIGILGLSLGGCVAACVAGRSR-NVKSTV
+LWAPVGKPDEDFQRIIDE---------RYV--AM--DDFPVEQ-NGFRFGCAFYEELP--RIHPQREIL--Q
+T-QGPVLVVCGSKDKSVSPLRSEEYQEIL--QDH-G-LRCERILIEGADHTFTHSEHERMAIEEAVRWFKET
+L-----------------------------------------------------------------------
+---------------------
+>ref|WP_204989011.1|/1-257  [completeness=complete] [organism=Sporohalobacter salinus] [gcode=11]
+------------------------------------------------------------------MEKPVL
+FGESGSEMLGILHIPEC--------------KTDY-PKPAVIFCHSFKNEKTGPHRIFVKMARKLAANGIVA
+FRFDFRGSGDSTGDFIDTTISGQIEDALMAIDYVSQLDRVNELQLGILGLSLGGTVAASAAAQM-DKIKALV
+LWSAVADIERVFLAQKPKS--------YDK--ERVEKQGYIDL-SGFKLGNEFIAEIG--EIDPLAQLE--D
+Y-DSLAFLVHGSEDEIVPIENTERYYNIF----D-S-ESCKKHIVIGSDHTYNKHEWETEVLEKTQEWLIEN
+L-----------------------------------------------------------------------
+---------------------
+>gb|OQX95632.1|/1-293  [completeness=complete] [organism=candidate division KSB1 bacterium 4572_119] [isolate=4572_119] [metagenome_source=marine sediment metagenome] [gcode=11] [country=USA: Guaymas Basin, Gulf of California] [isolation_source=deep-sea hydrothermal vent sediments] [lat_lon=27.0423 N 111.246 W] [collection_date=Dec-2009] hypothetical protein B6I21_04415 [candidate division KSB1 bacterium 4572_119]
+-----------------------MNLQ-TIKKLI-PMLTGLLLLMNC-----------QTNEKTSNPEKPVV
+FYRDGKQIVGMMHRPTQ---------------PAA-KYPAVVLLHGFTGNKSESHWLFTKLSRELAKSGIMS
+LRFDFLGSGDSQGEFQDMTILTELEDAKAALKFLKSQPDVNTEKIGIIGLSMGGCVAALLAGENN-EISSLV
+LLSAVSQPEKNFSQLPEYL-------PKVK-L--DENNWYLDN-NGFAIGKNFIEVLP--DIHPLTTIG--S
+F-AGDLLIIHGTDDQAVPVSAAHDYFETM--HNRLN-AETELFLVEKGDHVYTSLEKTNTVISKISEWFQRT
+LKAEK-------------------------------------------------------------------
+---------------------
+>tpg|HIE05009.1|/1-272  [completeness=complete] [organism=Candidatus Latescibacteria bacterium] [isolate=UWMA-0227] [metagenome_source=marine metagenome] [gcode=11] [country=Atlantic Ocean: Mid Cayman Rise] [isolation_source=Mid-Cayman Rise Vent Fluids] [lat_lon=18.375 N 81.7976 W] [collection_date=2017-04-15] alpha/beta fold hydrolase [Candidatus Latescibacteria bacterium]
+------------------------------------------------------------------MERPVT
+FTNEGQQIVGILHVPDG----------------EG-PHPGTVLFHGCTGNKSEDHWIFVKLARRLCREGFTV
+LRFDFRNSCDSEGDFEDMTVSGEISDGLRSLEWFSERPEVDRNRIGLLGLSLGGAVAACVAGRSP-LVRSLV
+LWSPVSKLKETFERLMAV---------KGV--DV--DKFPVEY-GGFRFGRAFWEELD--RIKPLKEIR--L
+V-KGPVLIIHGSEDRTVPPMASEEYQEVL--ESY-R-LPCERVVIEGADHTYTGMDYEDLVIGETVGWFRRT
+LVERRIYARPQDEVRGPQA-----------------------------------------------------
+---------------------
+>tpg|HEW92368.1|/1-259  [completeness=complete] [organism=Thermotogaceae bacterium] [isolate=HyVt-16] [metagenome_source=marine metagenome] [gcode=11] [country=Mexico: Guaymas Basin, Gulf of California] [isolation_source=marine hydrothermal sediment] [lat_lon=27.0078 N 111.4071 W] [collection_date=2009-11-30] [note=Metagenome-assembled genome binned from sequencing reads available in SRR5214151] alpha/beta fold hydrolase [Thermotogaceae bacterium]
+-----------------------------------------------------------------MVEKFVE
+FENQGQKIRGMVHLPNS---------------AEE-KYPGVILLHGFTGNRYEPFFMFVRFSRYLAKKGIAS
+LRFDFRGSGESEGTFEEMTVSNEISDAEKAIEFFTNMKEIDEKRIALVGLSMGGLVSACTSGRNPEKIKAVA
+LWSAVGDMKELVSKTMKED-------FGID--DILETPDRIPH-GGVYLGSSFFKDLE--NVNGFNEIK--R
+F-EGNVLICHCKGDPVVPYEHALKYKEV-----L-K-DKAILIPFEGEEHTFGRVEMLEKLFETTGNFLLEN
+LK----------------------------------------------------------------------
+---------------------
+>emb|CUU36412.1|/1-248  [organism=Armatimonadetes bacterium GXS] [isolate=GXS] [gcode=11] hypothetical protein GXSOP10_12382 [Armatimonadetes bacterium GXS]
+-----------------------------------------------------------------MDERLLW
+IPSRGKRMAGVLHLPTG----------------RR-RAPGVLMLHGFTGHKAETHRLFVHTARRLASEGFAV
+LRFDFLGSGDSEGLFEEMTISGEVEDALNALQFFRAQSRVDTARMAMLGFSLGGCVAALSQPRAG-ALKALV
+LWAPVSNPLRWMPP-------------------QGVPEKPVNI-GGNLVGPAFYRELP--ELKPLEAVR--A
+F-KGAVLILHGANDQAVRPDEGRAYESAF--QN--A-SRCEFRLIPDADHIFSQPQWEQSLMEQTVRWFREH
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCD6458086.1|/1-263  [completeness=complete] [organism=Thermoproteales archaeon] [isolate=AUK214] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta hydrolase [Thermoproteales archaeon]
+-----------------------------------------------------------------MKEEFVS
+FYNKGERIVGTFHIPEN-----------------L-PAPVIVMCHGFTGHRIEAHRLFVLAAREFCRDGFAV
+LRFDFRGSGESEGLFESVTVSGEVSDLIAAMDWLYARKEVSKEKLGVVGLSLGGVVAILTASRD-ERIKAVC
+TWSAPADFRELILMGATRRIFG----GTEV--DELFSREFIELPSGYRIRKSFLVDLF--KHDILGNVA--K
+ISPRPLLIVHGTNDQLVPLSQAEKLYMA-----A-E-KPKEKYFIKGADHTFNRWDWQWQVINYTLNWFSKN
+LIVP--------------------------------------------------------------------
+---------------------
+>gb|RLI42440.1|/1-262  [completeness=complete] [organism=Candidatus Bathyarchaeota archaeon] [isolate=B1_G2] [metagenome_source=marine sediment metagenome] [gcode=11] [country=Mexico: Guaymas Basin, Gulf of California] [isolation_source=deep-sea hydrothermal vent sediments from dive 4569_9 depth 9-12 cm] [lat_lon=27.015 N 111.379 W] [collection_date=30-Nov-2009] alpha/beta hydrolase [Candidatus Bathyarchaeota archaeon]
+------------------------------------------------------------------MIKPVT
+FMSEGEQIIGVLHVPDDL--R-----------GDK-RAPAIAMFHGFTGNKSEAHRLFVHVARSLCNDGFVV
+LRFDFRGSGDSDGEFEDMTVPGEVCDASRSIDFLSELNFVDSERIGVLGLSMGGRVAAILASKDR-RIKFVI
+LYSAALTPLRR--KFLEGL-------EKESIRRLEMGEAVHVG-NGWYLKKGFFETVD--SIVPLDVLD--R
+I-RVPVLIIHGDSDSVIPLDGALKGYEII--RDL-N-DKNELYIVRGGDHVFTRREHTIEVIERTLDWLRSL
+NL----------------------------------------------------------------------
+---------------------
+>ref|WP_138979231.1|/1-256  [completeness=complete] [organism=Caloramator sp. E03] [gcode=11]
+------------------------------------------------------------------MQRAVE
+LKSRNLTLRGMLHYPEN---------------TKG-KIPVVCIFHGFTGNKMEPHFIFVKLSRLLEKKGIAS
+LRFDFGGSGESDGDFIDMTLSGELEEAKDILSYAKSLEFADLQRIGVLGLSMGGAVASMLAGECKDDIKSLC
+LWAPAGNMGEIITAQRTKEE-------I----DKVREIGFYDA-GGLLVGKDFIDDVL--NLDIYGKAS--P
+F-DKNVLLLHGDKDMTVPLSASERYLDI-----Y-G-VKSVLHIVEGADHTFNRKDWEDEVLEYTVEFFKGE
+FK----------------------------------------------------------------------
+---------------------
+>gb|MBI5684768.1|/1-260  [completeness=complete] [organism=Verrucomicrobia bacterium] [isolate=NC_groundwater_2006_Pr3_S-0.65um_64_6] [metagenome_source=groundwater metagenome] [note=SR2-18-Sp65_coassembly_Verrucomicrobia_64_6] [gcode=11] [country=USA: California, Middletown] [isolation_source=groundwater] [lat_lon=38.70266 N 122.51889 W] [collection_date=2018-09-10] alpha/beta fold hydrolase [Verrucomicrobia bacterium]
+------------------------------------------------------------------METPVI
+FNSAGFQLVGILHRPEPA------------A-SRA-RRPAILFLHGFTGQKAEAHRLFVKTARALAHAGFIA
+LRFDFRGSGDSGGEFEEVAVSGWRQDARAALDVLLRQQGVDASRVGVIGLSMGGAVACHLAAG-EPRVRSLA
+LWSAVANGTDVVGVVGSP---------ESL--KHLAKHGWTDR-MGNKVSAKFVKEFK--AMRPSADLK--R
+S-RCPVFIAHGAADETVPVAQADQFEAAA--RATRG-RRVEKLIIPFANHTYANLALEARLIKATVVWFQRT
+L-----------------------------------------------------------------------
+---------------------
+>gb|NMC83191.1|/1-248  [completeness=complete] [organism=Armatimonadetes bacterium] [isolate=AS27yjCOA_96] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Armatimonadetes bacterium]
+----------------------------------------------------------------MPTLRPIT
+FTNHNQNLIGFLHMPDG----------------PG-PHPAVVYCHGFTGQCLEPGFIFVKLARRMADAGIAS
+FRFDFRGSGNSDGEFRDMTISGEISDAITAIDVVKELPGIDANRIGLLGFSMGGAVASETTAKCP-GIKTLC
+LWSPVSQTVRQNWNRA-----------------EQMVGDTLDL-GPLVLGRGFVDDLP--NHDPVAATI--R
+W-GGPLKVIHGSADITVTEESARAYLNR-------P-QRSEFVLVEGAEHGWFTEPIQDRLFTETTSWFRET
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCB1113227.1|/1-263  [completeness=complete] [organism=Chlamydiia bacterium] [isolate=HKST-UBA07] [metagenome_source=activated sludge metagenome] [gcode=11] [country=China:Hong Kong SAR, Shatin waste water treatment plant] [isolation_source=activated sludge from Shatin waste water treatment plant collected monthly from 2007 through 2015] [lat_lon=22.406236 N 114.213394 E] alpha/beta fold hydrolase [Chlamydiia bacterium]
+---------------------------------------------------------------MHETRESVT
+LENQGQKIFGIFHAPKV----------------QA-PYPAVLFCHGLAGHKTGRFRIYVEIAERLTKEGIAV
+LRVDFRGSGDSEGQIADMTLTGEIEDAILAFNWMKAHSGVNSDRLGIFGRSLGGSVAALTASEVN-LCKSLA
+LWAPIFNADQWRDKWRLVE-------HYDG--HPEDHAELRTI-NGQVVGLGFYQELF--RMDMPKALE-NL
+K-NVPLLHLHGLKDEIISPVQADHFEMAR--EG----SPSKFMLFDESDHDFSHSSERKIAIDETVEWFKKT
+LKET--------------------------------------------------------------------
+---------------------
+>gb|NLX71650.1|/1-255  [completeness=complete] [organism=Clostridiales bacterium] [isolate=AS09scLD_124] [metagenome_source=anaerobic digester metagenome] [gcode=11] [isolation_source=anaerobic digestion of organic wastes under variable temperature conditions and feedstocks] alpha/beta fold hydrolase [Clostridiales bacterium]
+------------------------------------------------------------------MQKAVE
+IQRNGMVLRGMLHTPDG---------------FTG-KVPMALIFHGFTGNKMEPHFIFVKLSRMLEKAGIAS
+LRFDFLGSGESDGEFKDMTLSGELKDAEAILEYAKSLDFVDQDKIYAVGLSMGGAVASMLAGLHSEDIAALC
+LWAPAGNMGELIQNSIREME-------AAG--VNISKMEYYDH-GGNLVGKAFVEDVT--SLDIFKIAS--S
+Y-DKRVLILHGDKDEAVPLETSHRYLEI-----Y-G-DKAKLHVLEGADHTFNKFEWEQEVIEKTVEFLKS-
+------------------------------------------------------------------------
+---------------------
+>gb|MBA3238933.1|/1-268  [completeness=complete] [organism=Parachlamydiaceae bacterium] [isolate=MGR_bin34] [metagenome_source=soil metagenome] [gcode=11] [country=Antarctica: Mackay Glacier regions] [isolation_source=mineral soil] [collection_date=2015-01] alpha/beta fold hydrolase [Parachlamydiaceae bacterium]
+--------------------------------------------------------------METEERDPVV
+LQNQGQKIFGVMHRPAN----------------AS-KTPAVLMCHGLGGHKVGKGRLYVQLAERLSAAGISS
+LRIDFRGSGDSEGAFSDMTIDSEVSDAVIALNALKNDPRIDTERIAIFGRSFGGVVAVLAAQKMA-MIKSLA
+LWAPVFSIDQWKEKWQQLH-------AAPI--EAAQKASLVDI-EGLQPGYPFFKQLF--ALKLSESLR-EL
+S-NVPLLHIHGEQDDIVNLSHADNFEEVR--LHA-S-GESHFKRLPKTDHDFLDRLEREQALEATIDWFRRT
+LFIERI------------------------------------------------------------------
+---------------------
+>gb|ATZ76871.1|/1-243  [organism=uncultured prokaryote] [gcode=11] [clone=00436_5_12ROV11] [isolation_source=marine hydrothermal vent sediment] [tech=concept-trans] esterase/lipase [uncultured prokaryote]
+-------------------------------------------------------------------METIF
+LENEGQKIFGIIHNVGL-------------------NTPVVIMFHGFTGNHIESRFIFARLSRALEKAGISS
+IRFDFRGSGDSEGTFEEMTLSSEMSDAKAIANYARDR---FKGHIGILGLSMGGTIALLTAPML--KPNALC
+LWAPAAKNREVFTNGG------------MP--QQIEKGKRLDV-GGLEISNAFIKEVL--TMNAFEKAK--Y
+Y-SNPVLILHGTSDSTVPFEHSQDLAKEF--------DHVTLVPVEGADHVFTSVQWSSFVIEKTVNFFTEN
+LL----------------------------------------------------------------------
+---------------------
+>gb|MCD6407657.1|/1-260  [completeness=complete] [organism=bacterium] [isolate=AUK276] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [bacterium]
+------------------------------------------------------------------MEKFVE
+FKSNGKRIVGFLHIPEG----------------KP-KFPGVLLCHGFTGTKSESHFIFTKLARNLAENGIAV
+LRFDFMGSGDSEGKFEEMTLETEMADGERAMEYLIKRKEVIKEKIGVVGLSMGAVTATYLASKYK-NVKSLC
+LWSPLAYPSIIRKKILTRK-------IKEKL--EKEGKAYITG-GGHYIGKGFIESTY--KVKPLEFAS--S
+F-SGRVMIVHSKDDQTLPIQHSLAYFKKF--HLK-S-SFCKLLIFEKGNHTFITEHSETTVIKETTHFFTDT
+LRG---------------------------------------------------------------------
+---------------------
+>gb|RJS85787.1|/1-269  [completeness=complete] [organism=Candidatus Bathyarchaeota archaeon] [isolate=M10_bin190] [metagenome_source=sediment metagenome] [gcode=11] [country=Mexico: Guaymas Basin, Gulf of California] [isolation_source=marine sediment sample collected at a deep sea vent site during cruise AT15-25 on Alvin dive 4460; sediment was oily and the sediment surface was covered with a white microbial mat] [collection_date=Oct-2008] alpha/beta fold hydrolase [Candidatus Bathyarchaeota archaeon]
+----------------------------------------------------------------MYMIKPVV
+FENEGEYIVGILHMPDGL-GK-----------GEK-TAPAVVMLHGFTGHKSEAHRLFVHVARALCNAGFIV
+LRFDFRGSGDSDGEFEDMTVLREVSDASRAISFLLSFPYTDPERIGVIGLSMGGRVAAIIASRDK-RIKFIV
+LYSAALIPLRK--KFLSLL-------KKEDWKRLEEGEAISIG-GGWYLRKPFFETLD--SPTPLQILD--K
+I-KVPVLMIHGDSDEVIPLEESIKGYEML--KKL-N-RKNELYIIKGGDHTFTEKKHTREVIEKTLNWLNSL
+FSSHNR------------------------------------------------------------------
+---------------------
+>gb|MBO2494414.1|/1-257  [completeness=complete] [organism=Clostridia bacterium] [isolate=ZC4RG12] [metagenome_source=compost metagenome] [gcode=11] [country=Brazil: Sao Paulo] [isolation_source=ZC4 (Zoo Composter number 4) at the Sao Paulo Zoo] [lat_lon=23.6265 S 46.6198 W] [collection_date=2013] alpha/beta hydrolase [Clostridia bacterium]
+------------------------------------------------------------------MQRAVE
+LFKNGMTLRGMLHKPDE---------------ASQ-KVPIALIFHGFTGNKMESHFIFVKLSRRLERVGIAS
+LRFDFLGSGESDGEFKDVTLSGELDDAEAILDYAKSLEFVDKDRIFAVGLSMGGVVASMLAGRHPQDIAALC
+LWAPAGNMGQIIQEKVREIQ-------ALG--VDVSSVEHFDL-GGNLIGKAFIQDVL--SLDIFKMAA--P
+Y-DKQVLILHGDKDDTVPLKTSYRYLEI-----Y-R-DRARLHVIEGADHTFNKWEWEQEVIDKTVEFLKSH
+M-----------------------------------------------------------------------
+---------------------
+>dbj|GBC93717.1|/1-255  [organism=bacterium HR15] [isolate=HRbin15] [gcode=11] [isolation_source=ammonia-oxidizing enrichment culture] [note=contig: NODE_351_31;~metagenomic; derived from metagenome: thermophilic ammonia-oxidizing enrichment culture] 2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase [bacterium HR15]
+-----------------------------------------------------------------MDERLLW
+IPSRGKRMAAVLHLPDG----------------RG-RAPAVLMLHGFTGNKSETHRLFVHAARRLAAAGFVA
+LRFDFLGSGDSEGEFEQMTIRGEVEDALNALRFLCEQRRVDPARLGMLGFSLGGCVAALSLPRAG-DIKALV
+LWAPVSNPMRWMPA-------------------TGVPEHPVNI-GGNRVGVGFYRELP--ELKPLETVR--A
+Y-KGAVLVLHGAADTAVSPQEGRAYESAF--AH--A-RPFEFRLLPEADHLFSTPEAEQSLLQQTLDWFRQT
+LASASTLP----------------------------------------------------------------
+---------------------
+>gb|MBI5818834.1|/1-266  [completeness=complete] [organism=Verrucomicrobia bacterium] [isolate=NC_groundwater_1840_Pr3_B-0.1um_61_25] [metagenome_source=groundwater metagenome] [note=SR2-17_Biohub_180515_Verrucomicrobia_61_25] [gcode=11] [country=USA: California, Middletown] [isolation_source=groundwater] [lat_lon=38.70266 N 122.51889 W] [collection_date=2017-11-19] alpha/beta fold hydrolase [Verrucomicrobia bacterium]
+------------------------------------------------------------------METPLV
+FDSADFQLVGMLHRPIQSPAIK------TPG-CRI-PRPAVLFLHGFTGQKTEAHRLFVKAARALARGGFIA
+LRFDFRGSGDSGGEFEQVTVSGWRQDARAALDVLLRQAGVDVGRVGVIGMSMGGAVACHLAAG-EPRVRSLA
+LWSAVANGADIVEVVASP---------DSL--KHLAKHGWADR-MGNKVSAKFVEQFK--TMRPPADMK--R
+S-RCPVFIAHGAADETVPVAQADQFEAAA--RAKRG-RLVEKLIIPFANHTYANVALEARLIKATVAWFRRT
+L-----------------------------------------------------------------------
+---------------------
+>gb|MCD6469823.1|/1-265  [completeness=complete] [organism=Candidatus Bathyarchaeota archaeon] [isolate=AUK205] [metagenome_source=hydrothermal vent metagenome] [gcode=11] [country=Pacific Ocean: Mexico, Pescadero Basin] [isolation_source=marine hydrothermal sediment] [lat_lon=23.957043 N 108.862273 W] [collection_date=2015-04-18] alpha/beta fold hydrolase [Candidatus Bathyarchaeota archaeon]
+----------------------------------------------------------------MGLIKPVT
+FENRGQQMIGILHTPDAL-KS------------GK-KAPGIVMFHGFTGNKTEAHRLFVHVARSLSEAGFIV
+LRFDFRGSGDSDGEFEDMTVPDEVSDAEKALTFLMEQENVDEERVGILGLSMGGRVAAILASKDR-RVKFAI
+LYSPALGPLKE--RFFSQM-------SREKLEKLDSGEPIEVS-SGWYLKKKFFETVD--YIVPLNIMD--R
+I-EVPVLIVHSDKDEIIPLEEALKGYELI--KDL-N-EKNELYVVKGGDHTFSKREHTLEVIRKTLDWINSL
+NLR---------------------------------------------------------------------
+---------------------
+>gb|MCL4506413.1|/1-274  [completeness=complete] [organism=Chloroflexi bacterium] [isolate=FK_Sedi_A_Bin.40] [metagenome_source=mine drainage metagenome] [gcode=11] [country=China: Guangdong] [isolation_source=Fankou acid mine drainage sediment Core A] [lat_lon=25.049023 N 113.664012 E] [collection_date=2017-10] alpha/beta fold hydrolase [Chloroflexi bacterium]
+--------------------------------------------------------MTISYPILNSTEQAVS
+FTCQNQTLWGMLHLPDS----------------PG-PNPAILMLHGFTGDKTGSHRLFVHAARAFAARGIAS
+LRFDMRGSGDSEGEFQDITVAGEIDDAQAALDWLTARRDIDSARVGMLGLSLGGIIESLLAGRNPSRLRGLA
+YWAAAANSDVFMHMAQRTSERSGQSTSSLM--DSLMSNGYIML-WGYPVGLPLIQTFF--QQEPLEELK--N
+Y-TGKAIVIHSTGDPTVPVSQADVYAEH-----F-G-ARASIHKIDDNTHTFENPLVERQIIELTLEWFTKI
+HH----------------------------------------------------------------------
+---------------------
+>EstDZ3_AlphaFold_A/1-256
+---------------------------------------------------------------MTENREPVV
+LKNQGQKIFGVIHIPEK-----------------T-PAPFVLFCHGFTGTKIEPHRIFVKTAEALAKEGIGA
+LRIDFRGSGDSEGSFKDMTVEGEVSDAMVAIEYLSQNNLVDKEKIGILGLSMGGAVASITSGRN-PLIKSCV
+LWSAVCHFDIFFNRSPEEV----------S--RIKDYGDFIDL-GGNPVGKKFLSEIV--NIKPLEEIK--K
+R-SIPVLIIHGSGDMVVPIQHAYDYFNG---LKD-T-HKVKLEIIEGADHTFNSIEWEEKVIEKTVNWFKET
+L-----------------------------------------------------------------------
+---------------------
